@@ -1031,24 +1031,3 @@ cbe8448dcf7e   orderer0.example.com                      0.10%     30.8MiB / 15.
 d151ff5cdeba   couchdb.peer0.org1.example.com            0.80%     65.45MiB / 15.63GiB   0.41%     867kB / 4.41MB    0B / 6.14MB      45
 8064e53396b4   ca.org2.example.com                       0.00%     8.41MiB / 15.63GiB    0.05%     3.81kB / 5.9kB    0B / 446kB       9
 51912ab26b27   ca.org1.example.com                       0.00%     12.54MiB / 15.63GiB   0.08%     3.81kB / 5.89kB   0B / 446kB       9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
-78e7117f93c0   couchdb.peer0.org2.example.com   4.49%     68.01MiB / 15.63GiB   0.42%     861kB / 4.4MB     4.1kB / 6.14MB   40
-d151ff5cdeba   couchdb.peer0.org1.example.com   5.41%     64.55MiB / 15.63GiB   0.40%     867kB / 4.41MB    0B / 6.14MB      40
-8064e53396b4   ca.org2.example.com              0.00%     8.41MiB / 15.63GiB    0.05%     3.81kB / 5.9kB    0B / 446kB       9
-51912ab26b27   ca.org1.example.com              0.00%     12.54MiB / 15.63GiB   0.08%     3.81kB / 5.89kB   0B / 446kB       9
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-8064e53396b4   ca.org2.example.com   0.00%     8.41MiB / 15.63GiB    0.05%     3.81kB / 5.9kB    0B / 446kB   9
-51912ab26b27   ca.org1.example.com   0.00%     12.54MiB / 15.63GiB   0.08%     3.81kB / 5.89kB   0B / 446kB   9
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-8064e53396b4   ca.org2.example.com   0.00%     8.41MiB / 15.63GiB    0.05%     3.81kB / 5.9kB    0B / 446kB   9
-51912ab26b27   ca.org1.example.com   0.00%     12.54MiB / 15.63GiB   0.08%     3.81kB / 5.89kB   0B / 446kB   9
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-8064e53396b4   ca.org2.example.com   0.00%     8.41MiB / 15.63GiB    0.05%     3.89kB / 5.9kB    0B / 446kB   9
-51912ab26b27   ca.org1.example.com   0.00%     12.54MiB / 15.63GiB   0.08%     3.89kB / 5.89kB   0B / 446kB   9
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-8064e53396b4   ca.org2.example.com   0.00%     8.41MiB / 15.63GiB    0.05%     3.93kB / 5.9kB    0B / 446kB   9
-51912ab26b27   ca.org1.example.com   0.00%     12.54MiB / 15.63GiB   0.08%     3.93kB / 5.89kB   0B / 446kB   9
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
