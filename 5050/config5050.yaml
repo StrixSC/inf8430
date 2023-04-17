@@ -4,18 +4,18 @@ test:
     number: 5
   rounds:
     - label: init
-      txNumber: 500
+      txNumber: 50
       rateControl:
         type: fixed-rate
         opts:
-          tps: 25 
+          tps: 5
       workload:
         module: benchmarks/samples/fabric/marbles/init.js
     - label: query
-      txDuration: 500
+      txDuration: 50
       rateControl:
         type: fixed-rate
         opts:
-          tps: 25
+          tps: 1
       workload:
         module: benchmarks/samples/fabric/marbles/query.js
