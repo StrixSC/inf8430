@@ -1,0 +1,20 @@
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+cd869833183a   primary      0.78%     171.9MiB / 15.63GiB   1.07%     22.6MB / 39.5MB   44.6MB / 79.3MB   81
+891ce22b4116   secondary2   0.69%     149.5MiB / 15.63GiB   0.93%     12.8MB / 6.9MB    81.2MB / 90.1MB   73
+0af62cf0a69b   secondary3   0.68%     130.4MiB / 15.63GiB   0.81%     12.7MB / 6.94MB   188kB / 90.1MB    73
+c9cd895ab23b   secondary1   2.19%     145.5MiB / 15.63GiB   0.91%     12.7MB / 6.93MB   836kB / 90.1MB    73
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+cd869833183a   primary      67.03%    169.3MiB / 15.63GiB   1.06%     23.5MB / 41MB     44.6MB / 80.2MB   83
+891ce22b4116   secondary2   36.11%    149.7MiB / 15.63GiB   0.94%     13.2MB / 7.16MB   81.2MB / 91MB     75
+0af62cf0a69b   secondary3   37.27%    130.6MiB / 15.63GiB   0.82%     13.1MB / 7.2MB    188kB / 91MB      75
+c9cd895ab23b   secondary1   10.59%    145.6MiB / 15.63GiB   0.91%     12.8MB / 7MB      836kB / 90.3MB    76
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+cd869833183a   primary      1.01%     169.9MiB / 15.63GiB   1.06%     25MB / 43.5MB     44.6MB / 81.6MB   81
+891ce22b4116   secondary2   0.91%     150.5MiB / 15.63GiB   0.94%     13.9MB / 7.57MB   81.2MB / 92.4MB   74
+0af62cf0a69b   secondary3   14.93%    130.8MiB / 15.63GiB   0.82%     13.8MB / 7.61MB   188kB / 92.4MB    75
+c9cd895ab23b   secondary1   0.94%     145.6MiB / 15.63GiB   0.91%     13.8MB / 7.6MB    836kB / 92.4MB    75
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+cd869833183a   primary      1.47%     170MiB / 15.63GiB     1.06%     25MB / 43.5MB     44.6MB / 81.6MB   81
+891ce22b4116   secondary2   1.10%     150.4MiB / 15.63GiB   0.94%     13.9MB / 7.58MB   81.2MB / 92.4MB   74
+0af62cf0a69b   secondary3   1.22%     130.9MiB / 15.63GiB   0.82%     13.8MB / 7.62MB   188kB / 92.4MB    75
+c9cd895ab23b   secondary1   0.76%     145.7MiB / 15.63GiB   0.91%     13.8MB / 7.61MB   836kB / 92.4MB    75

@@ -1,0 +1,25 @@
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cd869833183a   primary      1.17%     176.8MiB / 15.63GiB   1.10%     37.5MB / 66.7MB   44.6MB / 107MB   81
+891ce22b4116   secondary2   1.06%     160.8MiB / 15.63GiB   1.00%     20.6MB / 10.6MB   81.2MB / 121MB   73
+0af62cf0a69b   secondary3   1.04%     134.2MiB / 15.63GiB   0.84%     20.5MB / 10.7MB   188kB / 121MB    74
+c9cd895ab23b   secondary1   0.71%     158MiB / 15.63GiB     0.99%     20.5MB / 10.7MB   836kB / 121MB    75
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cd869833183a   primary      29.20%    177MiB / 15.63GiB     1.11%     37.8MB / 67.4MB   44.6MB / 107MB   83
+891ce22b4116   secondary2   17.09%    160.8MiB / 15.63GiB   1.00%     20.8MB / 10.7MB   81.2MB / 121MB   74
+0af62cf0a69b   secondary3   0.84%     134.2MiB / 15.63GiB   0.84%     20.5MB / 10.7MB   188kB / 121MB    74
+c9cd895ab23b   secondary1   18.09%    158.1MiB / 15.63GiB   0.99%     20.7MB / 10.8MB   836kB / 121MB    76
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cd869833183a   primary      72.15%    180.7MiB / 15.63GiB   1.13%     41.2MB / 73.2MB   44.6MB / 111MB   83
+891ce22b4116   secondary2   42.07%    161.7MiB / 15.63GiB   1.01%     22.7MB / 11.5MB   81.2MB / 124MB   74
+0af62cf0a69b   secondary3   41.24%    137.1MiB / 15.63GiB   0.86%     22MB / 11.4MB     188kB / 123MB    75
+c9cd895ab23b   secondary1   44.22%    158.6MiB / 15.63GiB   0.99%     22.5MB / 11.6MB   836kB / 124MB    77
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cd869833183a   primary      0.99%     183MiB / 15.63GiB     1.14%     43.1MB / 76.6MB   44.6MB / 113MB   82
+891ce22b4116   secondary2   0.92%     163.1MiB / 15.63GiB   1.02%     23.8MB / 12MB     81.2MB / 126MB   73
+0af62cf0a69b   secondary3   0.84%     140.7MiB / 15.63GiB   0.88%     23.6MB / 12.1MB   188kB / 126MB    74
+c9cd895ab23b   secondary1   18.40%    160MiB / 15.63GiB     1.00%     23.6MB / 12MB     836kB / 126MB    76
+CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cd869833183a   primary      1.64%     183MiB / 15.63GiB     1.14%     43.1MB / 76.6MB   44.6MB / 113MB   82
+891ce22b4116   secondary2   1.37%     163.1MiB / 15.63GiB   1.02%     23.8MB / 12MB     81.2MB / 126MB   73
+0af62cf0a69b   secondary3   1.49%     140.7MiB / 15.63GiB   0.88%     23.7MB / 12.1MB   188kB / 126MB    74
+c9cd895ab23b   secondary1   1.03%     160.1MiB / 15.63GiB   1.00%     23.6MB / 12MB     836kB / 126MB    76
