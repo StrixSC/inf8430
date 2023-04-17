@@ -1,25 +1,21 @@
-CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-cd869833183a   primary      0.88%     172.2MiB / 15.63GiB   1.08%     31.7MB / 56.8MB   44.6MB / 93.2MB   81
-891ce22b4116   secondary2   0.85%     155.1MiB / 15.63GiB   0.97%     17.4MB / 9.19MB   81.2MB / 104MB    75
-0af62cf0a69b   secondary3   0.76%     132.7MiB / 15.63GiB   0.83%     17.2MB / 9.26MB   188kB / 104MB     74
-c9cd895ab23b   secondary1   1.08%     149.7MiB / 15.63GiB   0.93%     17.2MB / 9.23MB   836kB / 104MB     75
-CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
-cd869833183a   primary      55.34%    172.6MiB / 15.63GiB   1.08%     32.4MB / 58MB     44.6MB / 94MB    83
-891ce22b4116   secondary2   31.44%    155.2MiB / 15.63GiB   0.97%     17.8MB / 9.37MB   81.2MB / 105MB   76
-0af62cf0a69b   secondary3   31.85%    132.9MiB / 15.63GiB   0.83%     17.6MB / 9.44MB   188kB / 105MB    75
-c9cd895ab23b   secondary1   1.62%     149.7MiB / 15.63GiB   0.94%     17.2MB / 9.24MB   836kB / 104MB    75
-CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
-cd869833183a   primary      74.53%    176.4MiB / 15.63GiB   1.10%     35.7MB / 63.7MB   44.6MB / 105MB   83
-891ce22b4116   secondary2   43.01%    157.8MiB / 15.63GiB   0.99%     19.6MB / 10.2MB   81.2MB / 108MB   76
-0af62cf0a69b   secondary3   44.79%    133.8MiB / 15.63GiB   0.84%     19.5MB / 10.2MB   188kB / 108MB    75
-c9cd895ab23b   secondary1   43.83%    150.6MiB / 15.63GiB   0.94%     18.9MB / 9.98MB   836kB / 107MB    76
-CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
-cd869833183a   primary      1.16%     176.8MiB / 15.63GiB   1.10%     37.4MB / 66.7MB   44.6MB / 107MB   81
-891ce22b4116   secondary2   7.42%     158.7MiB / 15.63GiB   0.99%     20.5MB / 10.6MB   81.2MB / 110MB   74
-0af62cf0a69b   secondary3   1.26%     130.9MiB / 15.63GiB   0.82%     20.4MB / 10.7MB   188kB / 110MB    74
-c9cd895ab23b   secondary1   1.25%     151.9MiB / 15.63GiB   0.95%     20.4MB / 10.6MB   836kB / 110MB    74
-CONTAINER ID   NAME         CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
-cd869833183a   primary      1.10%     176.8MiB / 15.63GiB   1.10%     37.4MB / 66.7MB   44.6MB / 107MB   81
-891ce22b4116   secondary2   0.96%     158.7MiB / 15.63GiB   0.99%     20.5MB / 10.6MB   81.2MB / 110MB   73
-0af62cf0a69b   secondary3   0.91%     131.2MiB / 15.63GiB   0.82%     20.4MB / 10.7MB   188kB / 110MB    73
-c9cd895ab23b   secondary1   0.73%     151.8MiB / 15.63GiB   0.95%     20.4MB / 10.6MB   836kB / 110MB    73
+CONTAINER ID,NAME,CPU %,MEM USAGE / LIMIT,MEM %,NET I/O,BLOCK I/O,PIDS
+cd869833183a,primary,0.88%,172.2MiB / 15.63GiB,1.08%,31.7MB / 56.8MB,44.6MB / 93.2MB,81
+cd869833183a,primary,55.34%, 172.6MiB / 15.63GiB,1.08%,32.4MB / 58MB,44.6MB / 94MB, 83
+cd869833183a,primary,74.53%, 176.4MiB / 15.63GiB,1.10%,35.7MB / 63.7MB,44.6MB / 105MB,83
+cd869833183a,primary,1.16%,176.8MiB / 15.63GiB,1.10%,37.4MB / 66.7MB,44.6MB / 107MB,81
+cd869833183a,primary,1.10%,176.8MiB / 15.63GiB,1.10%,37.4MB / 66.7MB,44.6MB / 107MB,81
+c9cd895ab23b,secondary1,1.08%,149.7MiB / 15.63GiB,0.93%,17.2MB / 9.23MB,836kB / 104MB,75
+c9cd895ab23b,secondary1,1.62%,149.7MiB / 15.63GiB,0.94%,17.2MB / 9.24MB,836kB / 104MB, 75
+c9cd895ab23b,secondary1,43.83%, 150.6MiB / 15.63GiB,0.94%,18.9MB / 9.98MB,836kB / 107MB, 76
+c9cd895ab23b,secondary1,1.25%,151.9MiB / 15.63GiB,0.95%,20.4MB / 10.6MB,836kB / 110MB, 74
+c9cd895ab23b,secondary1,0.73%,151.8MiB / 15.63GiB,0.95%,20.4MB / 10.6MB,836kB / 110MB, 73
+891ce22b4116,secondary2,0.85%,155.1MiB / 15.63GiB,0.97%,17.4MB / 9.19MB,81.2MB / 104MB, 75
+891ce22b4116,secondary2,31.44%, 155.2MiB / 15.63GiB,0.97%,17.8MB / 9.37MB,81.2MB / 105MB,76
+891ce22b4116,secondary2,43.01%, 157.8MiB / 15.63GiB,0.99%,19.6MB / 10.2MB,81.2MB / 108MB,76
+891ce22b4116,secondary2,7.42%,158.7MiB / 15.63GiB,0.99%,20.5MB / 10.6MB,81.2MB / 110MB,74
+891ce22b4116,secondary2,0.96%,158.7MiB / 15.63GiB,0.99%,20.5MB / 10.6MB,81.2MB / 110MB,73
+0af62cf0a69b,secondary3,0.76%,132.7MiB / 15.63GiB,0.83%,17.2MB / 9.26MB,188kB / 104MB,74
+0af62cf0a69b,secondary3,31.85%, 132.9MiB / 15.63GiB,0.83%,17.6MB / 9.44MB,188kB / 105MB, 75
+0af62cf0a69b,secondary3,44.79%, 133.8MiB / 15.63GiB,0.84%,19.5MB / 10.2MB,188kB / 108MB, 75
+0af62cf0a69b,secondary3,1.26%,130.9MiB / 15.63GiB,0.82%,20.4MB / 10.7MB,188kB / 110MB, 74
+0af62cf0a69b,secondary3,0.91%,131.2MiB / 15.63GiB,0.82%,20.4MB / 10.7MB,188kB / 110MB, 73

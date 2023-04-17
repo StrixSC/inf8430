@@ -1,828 +1,756 @@
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-f07540f74b76   ca.org1.example.com              0.00%     14.46MiB / 15.63GiB   0.09%     1.13kB / 0B       0B / 389kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com   94.64%    36.89MiB / 15.63GiB   0.23%     866B / 0B         0B / 98.3kB   45
-e964a6730b36   couchdb.peer0.org2.example.com   20.55%    40.77MiB / 15.63GiB   0.25%     1.87kB / 758B     0B / 131kB    45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.45MiB / 15.63GiB   0.08%     840B / 0B         0B / 389kB    9
-b8fc60147460   orderer0.example.com             0.11%     16.02MiB / 15.63GiB   0.10%     510B / 0B         0B / 41kB     13
-82b91e03aa3d   peer0.org1.example.com           4.47%     43MiB / 15.63GiB      0.27%     2.71kB / 1.49kB   0B / 57.3kB   13
-58c17ef91c51   peer0.org2.example.com           3.98%     43.04MiB / 15.63GiB   0.27%     2.96kB / 1.49kB   0B / 57.3kB   13
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-58c17ef91c51   peer0.org2.example.com           1.93%     43.04MiB / 15.63GiB   0.27%     2.96kB / 1.49kB   0B / 57.3kB   13
-82b91e03aa3d   peer0.org1.example.com           2.32%     43MiB / 15.63GiB      0.27%     2.96kB / 1.49kB   0B / 57.3kB   13
-b8fc60147460   orderer0.example.com             0.03%     16.02MiB / 15.63GiB   0.10%     600B / 0B         0B / 41kB     13
-f07540f74b76   ca.org1.example.com              0.00%     14.46MiB / 15.63GiB   0.09%     1.2kB / 0B        0B / 389kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com   8.81%     40.51MiB / 15.63GiB   0.25%     2.56kB / 2.4kB    0B / 442kB    45
-e964a6730b36   couchdb.peer0.org2.example.com   9.01%     40.46MiB / 15.63GiB   0.25%     2.76kB / 2.4kB    0B / 442kB    45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.45MiB / 15.63GiB   0.08%     1kB / 0B          0B / 389kB    9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-58c17ef91c51   peer0.org2.example.com           2.01%     43.04MiB / 15.63GiB   0.27%     3.07kB / 1.53kB   0B / 57.3kB   13
-82b91e03aa3d   peer0.org1.example.com           1.95%     43MiB / 15.63GiB      0.27%     3.03kB / 1.49kB   0B / 57.3kB   13
-b8fc60147460   orderer0.example.com             0.03%     16.02MiB / 15.63GiB   0.10%     670B / 0B         0B / 41kB     13
-f07540f74b76   ca.org1.example.com              0.00%     14.46MiB / 15.63GiB   0.09%     1.2kB / 0B        0B / 389kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com   2.33%     40.45MiB / 15.63GiB   0.25%     2.56kB / 2.4kB    0B / 442kB    45
-e964a6730b36   couchdb.peer0.org2.example.com   2.64%     40.46MiB / 15.63GiB   0.25%     2.8kB / 2.44kB    0B / 442kB    45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.45MiB / 15.63GiB   0.08%     1kB / 0B          0B / 389kB    9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-58c17ef91c51   peer0.org2.example.com           1.33%     43.04MiB / 15.63GiB   0.27%     3.15kB / 1.53kB   0B / 57.3kB   13
-82b91e03aa3d   peer0.org1.example.com           1.19%     43MiB / 15.63GiB      0.27%     3.11kB / 1.49kB   0B / 57.3kB   13
-b8fc60147460   orderer0.example.com             2.62%     18.21MiB / 15.63GiB   0.11%     5.71kB / 2.39kB   0B / 115kB    13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.07kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.27%     40.54MiB / 15.63GiB   0.25%     2.76kB / 2.4kB    0B / 442kB    45
-e964a6730b36   couchdb.peer0.org2.example.com   0.34%     40.46MiB / 15.63GiB   0.25%     3kB / 2.44kB      0B / 442kB    45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     2.8kB / 5.9kB     0B / 446kB    9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-58c17ef91c51   peer0.org2.example.com           1.80%     43.04MiB / 15.63GiB   0.27%     3.33kB / 1.6kB    0B / 57.3kB   13
-82b91e03aa3d   peer0.org1.example.com           2.32%     43MiB / 15.63GiB      0.27%     3.29kB / 1.56kB   0B / 57.3kB   13
-b8fc60147460   orderer0.example.com             0.09%     18.21MiB / 15.63GiB   0.11%     5.78kB / 2.39kB   0B / 119kB    13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.07kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.39%     40.61MiB / 15.63GiB   0.25%     2.82kB / 2.46kB   0B / 442kB    45
-e964a6730b36   couchdb.peer0.org2.example.com   0.48%     40.46MiB / 15.63GiB   0.25%     3.06kB / 2.51kB   0B / 442kB    45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     2.87kB / 5.9kB    0B / 446kB    9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-58c17ef91c51   peer0.org2.example.com           1.62%     49.37MiB / 15.63GiB   0.31%     39.2kB / 22.1kB   0B / 127kB   13
-82b91e03aa3d   peer0.org1.example.com           2.13%     49.4MiB / 15.63GiB    0.31%     39.4kB / 22.2kB   0B / 127kB   14
-b8fc60147460   orderer0.example.com             0.16%     18.22MiB / 15.63GiB   0.11%     8.78kB / 20kB     0B / 119kB   13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.15kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.55%     42.43MiB / 15.63GiB   0.27%     21.3kB / 19.3kB   0B / 618kB   45
-e964a6730b36   couchdb.peer0.org2.example.com   0.39%     41.96MiB / 15.63GiB   0.26%     21.4kB / 19.3kB   0B / 618kB   45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3kB / 5.94kB      0B / 446kB   9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-58c17ef91c51   peer0.org2.example.com           2.98%     51.48MiB / 15.63GiB   0.32%     70.4kB / 32.6kB   0B / 180kB   13
-82b91e03aa3d   peer0.org1.example.com           2.50%     51.5MiB / 15.63GiB    0.32%     71.4kB / 32.4kB   0B / 180kB   14
-b8fc60147460   orderer0.example.com             0.80%     18.22MiB / 15.63GiB   0.11%     14.9kB / 24.1kB   0B / 123kB   13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.24kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.59%     42.74MiB / 15.63GiB   0.27%     23.9kB / 22.5kB   0B / 762kB   45
-e964a6730b36   couchdb.peer0.org2.example.com   0.62%     42.48MiB / 15.63GiB   0.27%     23.6kB / 21.9kB   0B / 762kB   45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3kB / 5.94kB      0B / 446kB   9
-44c9f0f8b0e1   ecstatic_grothendieck            199.55%   106.3MiB / 15.63GiB   0.66%     646B / 0B         0B / 0B      34
-532aa71cb911   keen_ride                        191.17%   81.18MiB / 15.63GiB   0.51%     536B / 0B         0B / 0B      34
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-532aa71cb911   keen_ride                        191.25%   105.9MiB / 15.63GiB   0.66%     696B / 0B         0B / 160kB   36
-44c9f0f8b0e1   ecstatic_grothendieck            199.38%   111MiB / 15.63GiB     0.69%     736B / 0B         0B / 160kB   36
-58c17ef91c51   peer0.org2.example.com           1.27%     51.48MiB / 15.63GiB   0.32%     70.4kB / 32.6kB   0B / 180kB   13
-82b91e03aa3d   peer0.org1.example.com           1.21%     51.5MiB / 15.63GiB    0.32%     71.4kB / 32.4kB   0B / 180kB   14
-b8fc60147460   orderer0.example.com             0.07%     18.22MiB / 15.63GiB   0.11%     14.9kB / 24.1kB   0B / 123kB   13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.31kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.43%     42.74MiB / 15.63GiB   0.27%     23.9kB / 22.5kB   0B / 762kB   45
-e964a6730b36   couchdb.peer0.org2.example.com   0.22%     42.54MiB / 15.63GiB   0.27%     23.7kB / 21.9kB   0B / 762kB   45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3.08kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-532aa71cb911   keen_ride                        189.36%   116.8MiB / 15.63GiB   0.73%     696B / 0B         0B / 160kB   37
-44c9f0f8b0e1   ecstatic_grothendieck            201.03%   156.5MiB / 15.63GiB   0.98%     806B / 0B         0B / 160kB   33
-58c17ef91c51   peer0.org2.example.com           1.28%     51.48MiB / 15.63GiB   0.32%     70.5kB / 32.7kB   0B / 180kB   13
-82b91e03aa3d   peer0.org1.example.com           1.38%     51.5MiB / 15.63GiB    0.32%     71.4kB / 32.5kB   0B / 180kB   14
-b8fc60147460   orderer0.example.com             0.07%     18.22MiB / 15.63GiB   0.11%     15kB / 24.1kB     0B / 123kB   13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.31kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.88%     42.78MiB / 15.63GiB   0.27%     24.1kB / 22.5kB   0B / 762kB   45
-e964a6730b36   couchdb.peer0.org2.example.com   0.20%     42.58MiB / 15.63GiB   0.27%     23.8kB / 22kB     0B / 762kB   45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3.08kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-532aa71cb911   keen_ride                        217.29%   109.4MiB / 15.63GiB   0.68%     766B / 0B         0B / 19.2MB   35
-44c9f0f8b0e1   ecstatic_grothendieck            176.09%   132MiB / 15.63GiB     0.82%     876B / 0B         0B / 18.7MB   31
-58c17ef91c51   peer0.org2.example.com           1.51%     51.48MiB / 15.63GiB   0.32%     70.5kB / 32.7kB   0B / 180kB    13
-82b91e03aa3d   peer0.org1.example.com           1.41%     51.5MiB / 15.63GiB    0.32%     71.5kB / 32.5kB   0B / 180kB    14
-b8fc60147460   orderer0.example.com             0.10%     18.22MiB / 15.63GiB   0.11%     15kB / 24.1kB     0B / 123kB    13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.31kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.67%     42.85MiB / 15.63GiB   0.27%     24.1kB / 22.5kB   0B / 762kB    45
-e964a6730b36   couchdb.peer0.org2.example.com   0.34%     42.58MiB / 15.63GiB   0.27%     23.8kB / 22kB     0B / 762kB    45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3.15kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-532aa71cb911   keen_ride                        199.90%   70.02MiB / 15.63GiB   0.44%     766B / 0B         0B / 30.8MB   18
-44c9f0f8b0e1   ecstatic_grothendieck            192.24%   187.6MiB / 15.63GiB   1.17%     876B / 0B         0B / 34.9MB   25
-58c17ef91c51   peer0.org2.example.com           1.17%     51.48MiB / 15.63GiB   0.32%     70.6kB / 32.8kB   0B / 180kB    13
-82b91e03aa3d   peer0.org1.example.com           1.25%     51.5MiB / 15.63GiB    0.32%     71.6kB / 32.6kB   0B / 180kB    14
-b8fc60147460   orderer0.example.com             0.07%     18.22MiB / 15.63GiB   0.11%     15.1kB / 24.2kB   0B / 123kB    13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.31kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.51%     42.86MiB / 15.63GiB   0.27%     24.1kB / 22.6kB   0B / 762kB    45
-e964a6730b36   couchdb.peer0.org2.example.com   0.39%     42.59MiB / 15.63GiB   0.27%     23.8kB / 22kB     0B / 762kB    45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3.15kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-532aa71cb911   keen_ride                        168.67%   137.6MiB / 15.63GiB   0.86%     766B / 0B         0B / 30.8MB   18
-44c9f0f8b0e1   ecstatic_grothendieck            171.72%   125.1MiB / 15.63GiB   0.78%     876B / 0B         0B / 34.9MB   18
-58c17ef91c51   peer0.org2.example.com           1.63%     51.48MiB / 15.63GiB   0.32%     70.6kB / 32.8kB   0B / 180kB    13
-82b91e03aa3d   peer0.org1.example.com           1.41%     51.5MiB / 15.63GiB    0.32%     71.6kB / 32.6kB   0B / 180kB    14
-b8fc60147460   orderer0.example.com             0.12%     18.22MiB / 15.63GiB   0.11%     15.1kB / 24.2kB   0B / 123kB    13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.31kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.61%     42.86MiB / 15.63GiB   0.27%     24.1kB / 22.6kB   0B / 762kB    45
-e964a6730b36   couchdb.peer0.org2.example.com   0.96%     42.59MiB / 15.63GiB   0.27%     23.8kB / 22kB     0B / 762kB    45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3.15kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-58c17ef91c51   peer0.org2.example.com           1.64%     51.48MiB / 15.63GiB   0.32%     70.7kB / 32.9kB   0B / 180kB   13
-82b91e03aa3d   peer0.org1.example.com           8.57%     105.9MiB / 15.63GiB   0.66%     71.7kB / 32.7kB   0B / 180kB   14
-b8fc60147460   orderer0.example.com             0.08%     18.22MiB / 15.63GiB   0.11%     15.1kB / 24.2kB   0B / 123kB   13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.31kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.49%     42.86MiB / 15.63GiB   0.27%     24.2kB / 22.7kB   0B / 762kB   45
-e964a6730b36   couchdb.peer0.org2.example.com   0.44%     42.61MiB / 15.63GiB   0.27%     23.9kB / 22.1kB   0B / 762kB   45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3.15kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-58c17ef91c51   peer0.org2.example.com           1.59%     99.93MiB / 15.63GiB   0.62%     70.7kB / 32.9kB   0B / 180kB   13
-82b91e03aa3d   peer0.org1.example.com           1.92%     105.9MiB / 15.63GiB   0.66%     71.7kB / 32.7kB   0B / 180kB   14
-b8fc60147460   orderer0.example.com             0.13%     18.22MiB / 15.63GiB   0.11%     15.1kB / 24.2kB   0B / 123kB   13
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.31kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com   0.42%     42.86MiB / 15.63GiB   0.27%     24.2kB / 22.7kB   0B / 762kB   45
-e964a6730b36   couchdb.peer0.org2.example.com   0.37%     42.61MiB / 15.63GiB   0.27%     23.9kB / 22.1kB   0B / 762kB   45
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3.15kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.01%     7.34MiB / 2GiB        0.36%     3.65kB / 2.1kB    0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     3.59kB / 2.2kB    0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  1.84%     99.97MiB / 15.63GiB   0.62%     89.4kB / 44.2kB   0B / 205kB   13
-82b91e03aa3d   peer0.org1.example.com                  4.66%     106MiB / 15.63GiB     0.66%     92.7kB / 45.9kB   0B / 205kB   14
-b8fc60147460   orderer0.example.com                    0.08%     18.25MiB / 15.63GiB   0.11%     20.8kB / 36.5kB   0B / 143kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.46kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.83%     43.36MiB / 15.63GiB   0.27%     29.9kB / 31.3kB   0B / 942kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.51%     43.62MiB / 15.63GiB   0.27%     29.1kB / 29.6kB   0B / 942kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.23kB / 5.94kB   0B / 446kB   9
-2752ce83dbe2   loving_wilbur                           184.85%   138.8MiB / 15.63GiB   0.87%     736B / 0B         0B / 4.1kB   36
-4afa6b9ef468   adoring_spence                          204.58%   126.9MiB / 15.63GiB   0.79%     536B / 0B         0B / 4.1kB   35
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-2752ce83dbe2   loving_wilbur                           200.92%   88.41MiB / 15.63GiB   0.55%     806B / 0B         0B / 16.1MB   36
-4afa6b9ef468   adoring_spence                          184.30%   85.66MiB / 15.63GiB   0.54%     696B / 0B         0B / 16.5MB   35
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     3.77kB / 2.14kB   0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     3.79kB / 2.24kB   0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                  1.95%     99.97MiB / 15.63GiB   0.62%     89.5kB / 44.2kB   0B / 205kB    13
-82b91e03aa3d   peer0.org1.example.com                  1.60%     106MiB / 15.63GiB     0.66%     92.8kB / 45.9kB   0B / 205kB    14
-b8fc60147460   orderer0.example.com                    0.14%     18.25MiB / 15.63GiB   0.11%     20.9kB / 36.6kB   0B / 143kB    13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.46kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com          1.37%     43.38MiB / 15.63GiB   0.27%     29.9kB / 31.3kB   0B / 942kB    45
-e964a6730b36   couchdb.peer0.org2.example.com          1.01%     43.64MiB / 15.63GiB   0.27%     29.1kB / 29.6kB   0B / 942kB    45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.23kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-2752ce83dbe2   loving_wilbur                           192.08%   121.7MiB / 15.63GiB   0.76%     806B / 0B         0B / 16.1MB   30
-4afa6b9ef468   adoring_spence                          200.65%   107.5MiB / 15.63GiB   0.67%     696B / 0B         0B / 16.5MB   30
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     3.77kB / 2.14kB   0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     3.79kB / 2.24kB   0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                  1.89%     99.97MiB / 15.63GiB   0.62%     89.5kB / 44.2kB   0B / 205kB    13
-82b91e03aa3d   peer0.org1.example.com                  1.93%     106MiB / 15.63GiB     0.66%     92.8kB / 45.9kB   0B / 205kB    14
-b8fc60147460   orderer0.example.com                    0.06%     18.25MiB / 15.63GiB   0.11%     20.9kB / 36.6kB   0B / 143kB    13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.46kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.81%     43.45MiB / 15.63GiB   0.27%     29.9kB / 31.3kB   0B / 942kB    45
-e964a6730b36   couchdb.peer0.org2.example.com          1.34%     43.66MiB / 15.63GiB   0.27%     29.1kB / 29.6kB   0B / 942kB    45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.23kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-2752ce83dbe2   loving_wilbur                           184.85%   140.9MiB / 15.63GiB   0.88%     876B / 0B         0B / 16.1MB   35
-4afa6b9ef468   adoring_spence                          199.13%   170.2MiB / 15.63GiB   1.06%     766B / 0B         0B / 16.5MB   37
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     3.9kB / 2.21kB    0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     3.86kB / 2.24kB   0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                  1.79%     99.97MiB / 15.63GiB   0.62%     89.5kB / 44.2kB   0B / 205kB    13
-82b91e03aa3d   peer0.org1.example.com                  1.99%     106MiB / 15.63GiB     0.66%     92.9kB / 46kB     0B / 205kB    14
-b8fc60147460   orderer0.example.com                    0.04%     18.25MiB / 15.63GiB   0.11%     20.9kB / 36.6kB   0B / 143kB    13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.46kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com          3.25%     43.45MiB / 15.63GiB   0.27%     30kB / 31.3kB     0B / 942kB    45
-e964a6730b36   couchdb.peer0.org2.example.com          2.91%     43.64MiB / 15.63GiB   0.27%     29.1kB / 29.6kB   0B / 942kB    45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.3kB / 5.94kB    0B / 446kB    9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-2752ce83dbe2   loving_wilbur                           185.03%   103.4MiB / 15.63GiB   0.65%     876B / 0B         0B / 16.1MB   29
-4afa6b9ef468   adoring_spence                          203.31%   141.6MiB / 15.63GiB   0.88%     766B / 0B         0B / 16.5MB   30
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     3.9kB / 2.21kB    0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     3.93kB / 2.31kB   0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                  1.55%     99.97MiB / 15.63GiB   0.62%     89.8kB / 44.5kB   0B / 205kB    13
-82b91e03aa3d   peer0.org1.example.com                  1.72%     106MiB / 15.63GiB     0.66%     93.1kB / 46.2kB   0B / 205kB    14
-b8fc60147460   orderer0.example.com                    0.05%     18.25MiB / 15.63GiB   0.11%     21.1kB / 36.7kB   0B / 143kB    13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.46kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.28%     43.45MiB / 15.63GiB   0.27%     30.1kB / 31.4kB   0B / 942kB    45
-e964a6730b36   couchdb.peer0.org2.example.com          0.30%     43.64MiB / 15.63GiB   0.27%     29.3kB / 29.7kB   0B / 942kB    45
-fe9745b11ac5   ca.org2.example.com                     0.01%     12.47MiB / 15.63GiB   0.08%     3.3kB / 5.94kB    0B / 446kB    9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-2752ce83dbe2   loving_wilbur                           136.34%   239.7MiB / 15.63GiB   1.50%     876B / 0B         0B / 16.1MB   19
-4afa6b9ef468   adoring_spence                          127.24%   251.9MiB / 15.63GiB   1.57%     766B / 0B         0B / 16.5MB   19
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     3.9kB / 2.21kB    0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     3.93kB / 2.31kB   0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                  1.43%     99.97MiB / 15.63GiB   0.62%     89.8kB / 44.5kB   0B / 205kB    13
-82b91e03aa3d   peer0.org1.example.com                  1.78%     106MiB / 15.63GiB     0.66%     93.1kB / 46.2kB   0B / 205kB    14
-b8fc60147460   orderer0.example.com                    0.08%     18.25MiB / 15.63GiB   0.11%     21.1kB / 36.7kB   0B / 143kB    13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.46kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.46%     43.45MiB / 15.63GiB   0.27%     30.1kB / 31.4kB   0B / 942kB    45
-e964a6730b36   couchdb.peer0.org2.example.com          0.36%     43.64MiB / 15.63GiB   0.27%     29.3kB / 29.7kB   0B / 942kB    45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.3kB / 5.94kB    0B / 446kB    9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     3.9kB / 2.21kB    0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     3.93kB / 2.31kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  44.64%    141.9MiB / 15.63GiB   0.89%     89.8kB / 44.5kB   0B / 205kB   13
-82b91e03aa3d   peer0.org1.example.com                  46.30%    120.2MiB / 15.63GiB   0.75%     93.1kB / 46.2kB   0B / 205kB   14
-b8fc60147460   orderer0.example.com                    0.09%     18.25MiB / 15.63GiB   0.11%     21.1kB / 36.7kB   0B / 143kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.46kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.96%     43.45MiB / 15.63GiB   0.27%     30.1kB / 31.4kB   0B / 942kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.61%     43.65MiB / 15.63GiB   0.27%     29.3kB / 29.7kB   0B / 942kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.3kB / 5.94kB    0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.08kB / 2.27kB   0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.03kB / 2.37kB   0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                  2.45%     141.7MiB / 15.63GiB   0.89%     90.1kB / 44.8kB   0B / 205kB    13
-82b91e03aa3d   peer0.org1.example.com                  2.89%     120.1MiB / 15.63GiB   0.75%     95.7kB / 51.4kB   0B / 205kB    14
-b8fc60147460   orderer0.example.com                    0.09%     18.25MiB / 15.63GiB   0.11%     21.2kB / 36.8kB   0B / 143kB    13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.46kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.40%     43.46MiB / 15.63GiB   0.27%     30.3kB / 31.5kB   0B / 942kB    45
-e964a6730b36   couchdb.peer0.org2.example.com          0.82%     43.66MiB / 15.63GiB   0.27%     29.4kB / 29.8kB   0B / 942kB    45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.35kB / 5.94kB   0B / 446kB    9
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     3.62kB / 2.25kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     3.55kB / 2.33kB   0B / 0B       10
-1ca971b5cd44   agitated_cohen                          187.58%   85.38MiB / 15.63GiB   0.53%     486B / 0B         65.5kB / 0B   31
-77995f85f6fa   peaceful_hertz                          165.82%   73.81MiB / 15.63GiB   0.46%     376B / 0B         0B / 4.1kB    36
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
-1ca971b5cd44   agitated_cohen                          194.63%   91.67MiB / 15.63GiB   0.57%     736B / 0B         65.5kB / 160kB   30
-77995f85f6fa   peaceful_hertz                          189.78%   87.37MiB / 15.63GiB   0.55%     626B / 0B         0B / 160kB       30
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     3.79kB / 2.25kB   0B / 0B          9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.02%     9.316MiB / 2GiB       0.45%     3.91kB / 2.37kB   0B / 0B          10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.12kB / 2.27kB   0B / 0B          10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.19kB / 2.41kB   0B / 0B          9
-58c17ef91c51   peer0.org2.example.com                  1.70%     143.8MiB / 15.63GiB   0.90%     107kB / 55.4kB    0B / 233kB       13
-82b91e03aa3d   peer0.org1.example.com                  1.60%     120.2MiB / 15.63GiB   0.75%     114kB / 58.8kB    0B / 233kB       14
-b8fc60147460   orderer0.example.com                    0.08%     18.27MiB / 15.63GiB   0.11%     26.9kB / 48.7kB   0B / 168kB       13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.55kB / 5.89kB   0B / 446kB       9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.56%     43.49MiB / 15.63GiB   0.27%     34.9kB / 39.3kB   0B / 967kB       45
-e964a6730b36   couchdb.peer0.org2.example.com          0.52%     43.74MiB / 15.63GiB   0.27%     33.7kB / 35.8kB   0B / 967kB       45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.39kB / 5.94kB   0B / 446kB       9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-1ca971b5cd44   agitated_cohen                          204.95%   107MiB / 15.63GiB     0.67%     806B / 0B         65.5kB / 17.8MB   30
-77995f85f6fa   peaceful_hertz                          187.69%   140.6MiB / 15.63GiB   0.88%     696B / 0B         0B / 15.4MB       37
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     3.79kB / 2.25kB   0B / 0B           9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     3.91kB / 2.37kB   0B / 0B           10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.12kB / 2.27kB   0B / 0B           10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.19kB / 2.41kB   0B / 0B           9
-58c17ef91c51   peer0.org2.example.com                  1.38%     143.8MiB / 15.63GiB   0.90%     107kB / 55.4kB    0B / 233kB        13
-82b91e03aa3d   peer0.org1.example.com                  1.52%     120.2MiB / 15.63GiB   0.75%     114kB / 58.8kB    0B / 233kB        14
-b8fc60147460   orderer0.example.com                    0.06%     18.27MiB / 15.63GiB   0.11%     26.9kB / 48.7kB   0B / 168kB        13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.55kB / 5.89kB   0B / 446kB        9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.51%     43.49MiB / 15.63GiB   0.27%     34.9kB / 39.3kB   0B / 967kB        45
-e964a6730b36   couchdb.peer0.org2.example.com          0.59%     43.74MiB / 15.63GiB   0.27%     33.7kB / 35.8kB   0B / 967kB        45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.39kB / 5.94kB   0B / 446kB        9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-1ca971b5cd44   agitated_cohen                          195.96%   148.4MiB / 15.63GiB   0.93%     876B / 0B         65.5kB / 17.8MB   36
-77995f85f6fa   peaceful_hertz                          193.53%   144.8MiB / 15.63GiB   0.90%     696B / 0B         0B / 15.4MB       31
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     3.85kB / 2.25kB   0B / 0B           9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     3.98kB / 2.37kB   0B / 0B           10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.19kB / 2.34kB   0B / 0B           10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.25kB / 2.48kB   0B / 0B           9
-58c17ef91c51   peer0.org2.example.com                  1.74%     143.8MiB / 15.63GiB   0.90%     107kB / 55.5kB    0B / 233kB        13
-82b91e03aa3d   peer0.org1.example.com                  1.52%     120.2MiB / 15.63GiB   0.75%     114kB / 58.9kB    0B / 233kB        14
-b8fc60147460   orderer0.example.com                    0.07%     18.27MiB / 15.63GiB   0.11%     26.9kB / 48.7kB   0B / 168kB        13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.55kB / 5.89kB   0B / 446kB        9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.84%     43.54MiB / 15.63GiB   0.27%     34.9kB / 39.3kB   0B / 967kB        45
-e964a6730b36   couchdb.peer0.org2.example.com          3.85%     43.83MiB / 15.63GiB   0.27%     33.7kB / 35.8kB   0B / 967kB        45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.39kB / 5.94kB   0B / 446kB        9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-1ca971b5cd44   agitated_cohen                          182.32%   118.8MiB / 15.63GiB   0.74%     876B / 0B         65.5kB / 17.8MB   30
-77995f85f6fa   peaceful_hertz                          209.78%   185.6MiB / 15.63GiB   1.16%     766B / 0B         0B / 15.4MB       32
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     3.92kB / 2.32kB   0B / 0B           9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.05kB / 2.43kB   0B / 0B           10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.23kB / 2.38kB   0B / 0B           10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.25kB / 2.48kB   0B / 0B           9
-58c17ef91c51   peer0.org2.example.com                  1.29%     143.8MiB / 15.63GiB   0.90%     107kB / 55.7kB    0B / 233kB        13
-82b91e03aa3d   peer0.org1.example.com                  1.50%     120.2MiB / 15.63GiB   0.75%     114kB / 59.2kB    0B / 233kB        14
-b8fc60147460   orderer0.example.com                    0.07%     18.27MiB / 15.63GiB   0.11%     27.1kB / 48.9kB   0B / 168kB        13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.55kB / 5.89kB   0B / 446kB        9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.80%     43.54MiB / 15.63GiB   0.27%     35kB / 39.5kB     0B / 967kB        45
-e964a6730b36   couchdb.peer0.org2.example.com          0.75%     43.83MiB / 15.63GiB   0.27%     33.9kB / 36kB     0B / 967kB        45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.39kB / 5.94kB   0B / 446kB        9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-1ca971b5cd44   agitated_cohen                          174.10%   79.86MiB / 15.63GiB   0.50%     876B / 0B         65.5kB / 17.8MB   19
-77995f85f6fa   peaceful_hertz                          212.46%   104.8MiB / 15.63GiB   0.65%     766B / 0B         0B / 15.4MB       19
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     3.92kB / 2.32kB   0B / 0B           9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.05kB / 2.43kB   0B / 0B           10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.23kB / 2.38kB   0B / 0B           10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.25kB / 2.48kB   0B / 0B           9
-58c17ef91c51   peer0.org2.example.com                  1.37%     143.8MiB / 15.63GiB   0.90%     107kB / 55.7kB    0B / 233kB        13
-82b91e03aa3d   peer0.org1.example.com                  1.60%     120.2MiB / 15.63GiB   0.75%     114kB / 59.2kB    0B / 233kB        14
-b8fc60147460   orderer0.example.com                    0.10%     18.27MiB / 15.63GiB   0.11%     27.1kB / 48.9kB   0B / 168kB        13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.55kB / 5.89kB   0B / 446kB        9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.58%     43.54MiB / 15.63GiB   0.27%     35kB / 39.5kB     0B / 967kB        45
-e964a6730b36   couchdb.peer0.org2.example.com          0.86%     43.83MiB / 15.63GiB   0.27%     33.9kB / 36kB     0B / 967kB        45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.39kB / 5.94kB   0B / 446kB        9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     3.99kB / 2.32kB   0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.05kB / 2.43kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.23kB / 2.38kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.25kB / 2.48kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  1.32%     143.8MiB / 15.63GiB   0.90%     107kB / 55.7kB    0B / 233kB   13
-82b91e03aa3d   peer0.org1.example.com                  1.41%     120.2MiB / 15.63GiB   0.75%     114kB / 59.2kB    0B / 233kB   14
-b8fc60147460   orderer0.example.com                    0.06%     18.27MiB / 15.63GiB   0.11%     27.1kB / 48.9kB   0B / 168kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.55kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.56%     43.55MiB / 15.63GiB   0.27%     35kB / 39.5kB     0B / 967kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.80%     43.84MiB / 15.63GiB   0.27%     33.9kB / 36kB     0B / 967kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.39kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     4.06kB / 2.39kB   0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.12kB / 2.43kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.37kB / 2.45kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.32kB / 2.54kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  2.26%     162.4MiB / 15.63GiB   1.01%     108kB / 55.8kB    0B / 233kB   13
-82b91e03aa3d   peer0.org1.example.com                  2.44%     156.3MiB / 15.63GiB   0.98%     114kB / 59.3kB    0B / 233kB   14
-b8fc60147460   orderer0.example.com                    0.09%     18.27MiB / 15.63GiB   0.11%     27.1kB / 48.9kB   0B / 168kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.62kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          1.02%     43.55MiB / 15.63GiB   0.27%     35kB / 39.5kB     0B / 967kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.72%     43.84MiB / 15.63GiB   0.27%     33.9kB / 36kB     0B / 967kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.39kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-790ad3af168a   dev-peer0.org1.example.com-simple-v0    0.01%     7.27MiB / 2GiB        0.35%     3.81kB / 2.17kB   0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0    0.01%     7.266MiB / 2GiB       0.35%     3.85kB / 2.26kB   0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     4.14kB / 2.39kB   0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.27kB / 2.5kB    0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.49kB / 2.49kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.56kB / 2.63kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  1.55%     162.5MiB / 15.63GiB   1.02%     125kB / 66.7kB    0B / 258kB   13
-82b91e03aa3d   peer0.org1.example.com                  1.49%     156.4MiB / 15.63GiB   0.98%     135kB / 72.2kB    0B / 258kB   14
-b8fc60147460   orderer0.example.com                    0.14%     18.27MiB / 15.63GiB   0.11%     32.9kB / 60.8kB   0B / 188kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.7kB / 5.89kB    0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          3.23%     43.57MiB / 15.63GiB   0.27%     39.9kB / 48.1kB   0B / 991kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.98%     43.88MiB / 15.63GiB   0.27%     38.3kB / 42.1kB   0B / 991kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.47kB / 5.94kB   0B / 446kB   9
-9d72744bd3f1   wizardly_satoshi                        207.42%   145.1MiB / 15.63GiB   0.91%     646B / 0B         0B / 4.1kB   38
-dc06d3311778   eager_driscoll                          179.67%   106.3MiB / 15.63GiB   0.66%     626B / 0B         0B / 4.1kB   31
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-9d72744bd3f1   wizardly_satoshi                        195.12%   102.6MiB / 15.63GiB   0.64%     736B / 0B         0B / 160kB   36
-dc06d3311778   eager_driscoll                          182.07%   140.9MiB / 15.63GiB   0.88%     696B / 0B         0B / 16MB    35
-790ad3af168a   dev-peer0.org1.example.com-simple-v0    0.00%     7.27MiB / 2GiB        0.35%     3.93kB / 2.21kB   0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0    0.00%     7.266MiB / 2GiB       0.35%     3.96kB / 2.3kB    0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     4.14kB / 2.39kB   0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.31kB / 2.54kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.49kB / 2.49kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.56kB / 2.63kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  1.34%     162.5MiB / 15.63GiB   1.02%     125kB / 66.8kB    0B / 258kB   13
-82b91e03aa3d   peer0.org1.example.com                  1.49%     156.4MiB / 15.63GiB   0.98%     135kB / 72.3kB    0B / 258kB   14
-b8fc60147460   orderer0.example.com                    0.08%     18.27MiB / 15.63GiB   0.11%     32.9kB / 60.8kB   0B / 188kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.7kB / 5.89kB    0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.71%     43.57MiB / 15.63GiB   0.27%     39.9kB / 48.1kB   0B / 991kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.81%     43.88MiB / 15.63GiB   0.27%     38.3kB / 42.1kB   0B / 991kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.47kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-9d72744bd3f1   wizardly_satoshi                        197.76%   207.6MiB / 15.63GiB   1.30%     806B / 0B         0B / 17MB    37
-dc06d3311778   eager_driscoll                          191.48%   175.4MiB / 15.63GiB   1.10%     696B / 0B         0B / 16MB    38
-790ad3af168a   dev-peer0.org1.example.com-simple-v0    0.00%     7.27MiB / 2GiB        0.35%     3.93kB / 2.21kB   0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0    0.00%     7.266MiB / 2GiB       0.35%     3.96kB / 2.3kB    0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     4.14kB / 2.39kB   0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.31kB / 2.54kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.49kB / 2.49kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.56kB / 2.63kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  1.29%     162.5MiB / 15.63GiB   1.02%     125kB / 66.8kB    0B / 258kB   13
-82b91e03aa3d   peer0.org1.example.com                  1.57%     156.4MiB / 15.63GiB   0.98%     135kB / 72.3kB    0B / 258kB   14
-b8fc60147460   orderer0.example.com                    0.09%     18.27MiB / 15.63GiB   0.11%     33kB / 60.8kB     0B / 188kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.7kB / 5.89kB    0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.73%     43.68MiB / 15.63GiB   0.27%     39.9kB / 48.1kB   0B / 991kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.89%     43.97MiB / 15.63GiB   0.27%     38.3kB / 42.1kB   0B / 991kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.47kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-9d72744bd3f1   wizardly_satoshi                        190.17%   163.4MiB / 15.63GiB   1.02%     876B / 0B         0B / 17MB    34
-dc06d3311778   eager_driscoll                          195.90%   141.5MiB / 15.63GiB   0.88%     766B / 0B         0B / 16MB    39
-790ad3af168a   dev-peer0.org1.example.com-simple-v0    0.00%     7.27MiB / 2GiB        0.35%     4kB / 2.21kB      0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0    0.00%     7.266MiB / 2GiB       0.35%     3.96kB / 2.3kB    0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     4.21kB / 2.45kB   0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.38kB / 2.61kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.56kB / 2.56kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.62kB / 2.69kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  1.68%     162.5MiB / 15.63GiB   1.02%     125kB / 66.9kB    0B / 258kB   13
-82b91e03aa3d   peer0.org1.example.com                  1.55%     156.4MiB / 15.63GiB   0.98%     135kB / 72.4kB    0B / 258kB   14
-b8fc60147460   orderer0.example.com                    0.46%     18.28MiB / 15.63GiB   0.11%     33.2kB / 61kB     0B / 188kB   13
-f07540f74b76   ca.org1.example.com                     0.23%     14.48MiB / 15.63GiB   0.09%     3.7kB / 5.89kB    0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.66%     43.69MiB / 15.63GiB   0.27%     39.9kB / 48.1kB   0B / 991kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.75%     43.98MiB / 15.63GiB   0.27%     38.3kB / 42.1kB   0B / 991kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.47kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-9d72744bd3f1   wizardly_satoshi                        182.64%   107.6MiB / 15.63GiB   0.67%     876B / 0B         0B / 17MB    29
-dc06d3311778   eager_driscoll                          209.94%   108.2MiB / 15.63GiB   0.68%     766B / 0B         0B / 16MB    30
-790ad3af168a   dev-peer0.org1.example.com-simple-v0    0.00%     7.27MiB / 2GiB        0.35%     4.06kB / 2.27kB   0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0    0.00%     7.266MiB / 2GiB       0.35%     4.09kB / 2.37kB   0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     4.25kB / 2.5kB    0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.38kB / 2.61kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.56kB / 2.56kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.62kB / 2.69kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  1.25%     162.5MiB / 15.63GiB   1.02%     125kB / 67.2kB    0B / 258kB   13
-82b91e03aa3d   peer0.org1.example.com                  1.35%     156.4MiB / 15.63GiB   0.98%     136kB / 72.7kB    0B / 258kB   14
-b8fc60147460   orderer0.example.com                    0.08%     18.27MiB / 15.63GiB   0.11%     33.3kB / 61.1kB   0B / 188kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.7kB / 5.89kB    0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.74%     43.69MiB / 15.63GiB   0.27%     40kB / 48.2kB     0B / 991kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.59%     43.98MiB / 15.63GiB   0.27%     38.4kB / 42.3kB   0B / 991kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.47kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-9d72744bd3f1   wizardly_satoshi                        120.91%   297.6MiB / 15.63GiB   1.86%     876B / 0B         0B / 17MB    18
-dc06d3311778   eager_driscoll                          133.67%   260.3MiB / 15.63GiB   1.63%     766B / 0B         0B / 16MB    18
-790ad3af168a   dev-peer0.org1.example.com-simple-v0    0.00%     7.27MiB / 2GiB        0.35%     4.06kB / 2.27kB   0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0    0.00%     7.266MiB / 2GiB       0.35%     4.09kB / 2.37kB   0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     4.25kB / 2.5kB    0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.38kB / 2.61kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.56kB / 2.56kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.62kB / 2.69kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  1.48%     162.5MiB / 15.63GiB   1.02%     125kB / 67.2kB    0B / 258kB   13
-82b91e03aa3d   peer0.org1.example.com                  1.12%     156.4MiB / 15.63GiB   0.98%     136kB / 72.7kB    0B / 258kB   14
-b8fc60147460   orderer0.example.com                    0.09%     18.27MiB / 15.63GiB   0.11%     33.3kB / 61.1kB   0B / 188kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.7kB / 5.89kB    0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          3.30%     43.46MiB / 15.63GiB   0.27%     40kB / 48.2kB     0B / 991kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          3.79%     43.99MiB / 15.63GiB   0.27%     38.4kB / 42.3kB   0B / 991kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.54kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                    CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-790ad3af168a   dev-peer0.org1.example.com-simple-v0    0.00%     7.27MiB / 2GiB        0.35%     4.06kB / 2.27kB   0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0    0.00%     7.266MiB / 2GiB       0.35%     4.09kB / 2.37kB   0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0       0.00%     9.289MiB / 2GiB       0.45%     4.32kB / 2.5kB    0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0       0.00%     9.316MiB / 2GiB       0.45%     4.38kB / 2.61kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0   0.00%     7.34MiB / 2GiB        0.36%     4.62kB / 2.62kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0   0.00%     9.27MiB / 2GiB        0.45%     4.62kB / 2.69kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                  79.15%    187.1MiB / 15.63GiB   1.17%     125kB / 67.2kB    0B / 258kB   13
-82b91e03aa3d   peer0.org1.example.com                  55.66%    187.5MiB / 15.63GiB   1.17%     136kB / 72.8kB    0B / 258kB   14
-b8fc60147460   orderer0.example.com                    0.08%     18.27MiB / 15.63GiB   0.11%     33.3kB / 61.1kB   0B / 188kB   13
-f07540f74b76   ca.org1.example.com                     0.00%     14.48MiB / 15.63GiB   0.09%     3.7kB / 5.89kB    0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com          0.82%     43.46MiB / 15.63GiB   0.27%     40.1kB / 48.2kB   0B / 991kB   45
-e964a6730b36   couchdb.peer0.org2.example.com          0.55%     43.99MiB / 15.63GiB   0.27%     38.4kB / 42.3kB   0B / 991kB   45
-fe9745b11ac5   ca.org2.example.com                     0.00%     12.47MiB / 15.63GiB   0.08%     3.54kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.17kB / 2.34kB   0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.2kB / 2.44kB    0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.43kB / 2.56kB   0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.55kB / 2.67kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.34MiB / 2GiB        0.36%     4.67kB / 2.62kB   0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.27MiB / 2GiB        0.45%     4.73kB / 2.76kB   0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                    2.78%     187MiB / 15.63GiB     1.17%     128kB / 72.6kB    0B / 258kB   13
-82b91e03aa3d   peer0.org1.example.com                    2.12%     187.4MiB / 15.63GiB   1.17%     136kB / 73.1kB    0B / 258kB   14
-b8fc60147460   orderer0.example.com                      0.08%     18.27MiB / 15.63GiB   0.11%     33.3kB / 61.1kB   0B / 188kB   13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.74kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.98%     43.46MiB / 15.63GiB   0.27%     40.3kB / 48.3kB   0B / 991kB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.92%     43.99MiB / 15.63GiB   0.27%     38.6kB / 42.4kB   0B / 991kB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.58kB / 5.94kB   0B / 446kB   9
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     3.57kB / 2.33kB   0B / 0B      9
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     3.71kB / 2.23kB   0B / 0B      8
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     3.8kB / 2.23kB    0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.01%     9.301MiB / 2GiB       0.45%     3.93kB / 2.37kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.28kB / 2.34kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.36kB / 2.48kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.51kB / 2.6kB    0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.68kB / 2.76kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.34MiB / 2GiB        0.36%     4.75kB / 2.66kB   0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.27MiB / 2GiB        0.45%     4.82kB / 2.8kB    0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.96%     187MiB / 15.63GiB     1.17%     141kB / 77.7kB    0B / 283kB    13
-82b91e03aa3d   peer0.org1.example.com                    1.88%     187.4MiB / 15.63GiB   1.17%     151kB / 83.3kB    0B / 283kB    14
-b8fc60147460   orderer0.example.com                      0.07%     18.29MiB / 15.63GiB   0.11%     39.3kB / 73.3kB   0B / 209kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.51%     43.52MiB / 15.63GiB   0.27%     44.2kB / 54kB     0B / 1.02MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.35%     44.01MiB / 15.63GiB   0.27%     42.5kB / 48.1kB   0B / 1.02MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     3.91kB / 2.27kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     3.93kB / 2.37kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.28kB / 2.34kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.36kB / 2.48kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.51kB / 2.6kB    0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.68kB / 2.76kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.34MiB / 2GiB        0.36%     4.75kB / 2.66kB   0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.27MiB / 2GiB        0.45%     4.82kB / 2.8kB    0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.24%     187MiB / 15.63GiB     1.17%     141kB / 77.7kB    0B / 283kB    13
-82b91e03aa3d   peer0.org1.example.com                    1.40%     187.4MiB / 15.63GiB   1.17%     151kB / 83.4kB    0B / 283kB    14
-b8fc60147460   orderer0.example.com                      0.05%     18.29MiB / 15.63GiB   0.11%     39.3kB / 73.3kB   0B / 209kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.65%     43.52MiB / 15.63GiB   0.27%     44.2kB / 54kB     0B / 1.02MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.54%     44.01MiB / 15.63GiB   0.27%     42.5kB / 48.1kB   0B / 1.02MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     3.91kB / 2.27kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4kB / 2.37kB      0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.28kB / 2.34kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.36kB / 2.48kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.58kB / 2.67kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.75kB / 2.82kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     1.00%     7.344MiB / 2GiB       0.36%     28.5kB / 16.7kB   0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.72%     9.277MiB / 2GiB       0.45%     27.5kB / 15.4kB   0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    7.39%     187MiB / 15.63GiB     1.17%     248kB / 154kB     0B / 369kB    13
-82b91e03aa3d   peer0.org1.example.com                    11.62%    187.5MiB / 15.63GiB   1.17%     251kB / 772kB     0B / 283kB    14
-b8fc60147460   orderer0.example.com                      1.45%     20.44MiB / 15.63GiB   0.13%     93.2kB / 174kB    0B / 315kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            27.50%    45.71MiB / 15.63GiB   0.29%     57.5kB / 70.4kB   0B / 1.26MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            28.89%    46.13MiB / 15.63GiB   0.29%     56.5kB / 64.1kB   0B / 1.25MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.05kB / 2.34kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.07kB / 2.44kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.35kB / 2.41kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.42kB / 2.54kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.58kB / 2.67kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.75kB / 2.82kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.64%     7.355MiB / 2GiB       0.36%     72.2kB / 40.3kB   0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.58%     9.285MiB / 2GiB       0.45%     71.5kB / 39.4kB   0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    5.23%     187.3MiB / 15.63GiB   1.17%     396kB / 260kB     0B / 500kB    14
-82b91e03aa3d   peer0.org1.example.com                    5.12%     188MiB / 15.63GiB     1.17%     452kB / 916kB     0B / 500kB    14
-b8fc60147460   orderer0.example.com                      1.14%     22.69MiB / 15.63GiB   0.14%     190kB / 315kB     0B / 475kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            9.65%     47.09MiB / 15.63GiB   0.29%     80.5kB / 97.1kB   0B / 1.48MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            10.16%    47.15MiB / 15.63GiB   0.29%     79kB / 91.2kB     0B / 1.48MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.01%     11.39MiB / 2GiB       0.56%     4.05kB / 2.34kB   0B / 0B      8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.07kB / 2.44kB   0B / 0B      9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.43kB / 2.49kB   0B / 0B      8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.46kB / 2.58kB   0B / 0B      7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.58kB / 2.67kB   0B / 0B      9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.75kB / 2.82kB   0B / 0B      10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.42%     7.359MiB / 2GiB       0.36%     104kB / 57.5kB    0B / 0B      10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.58%     9.285MiB / 2GiB       0.45%     104kB / 57.4kB    0B / 0B      9
-58c17ef91c51   peer0.org2.example.com                    5.77%     187.6MiB / 15.63GiB   1.17%     557kB / 354kB     0B / 672kB   14
-82b91e03aa3d   peer0.org1.example.com                    5.37%     188.1MiB / 15.63GiB   1.18%     612kB / 1.01MB    0B / 672kB   14
-b8fc60147460   orderer0.example.com                      1.03%     22.89MiB / 15.63GiB   0.14%     266kB / 497kB     0B / 688kB   13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB   9
-e933ed5fcb41   couchdb.peer0.org1.example.com            14.42%    47.62MiB / 15.63GiB   0.30%     108kB / 129kB     0B / 1.8MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            12.42%    47.79MiB / 15.63GiB   0.30%     106kB / 122kB     0B / 1.8MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.05kB / 2.34kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.07kB / 2.44kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.43kB / 2.49kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.46kB / 2.58kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.58kB / 2.67kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.75kB / 2.82kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.22%     7.414MiB / 2GiB       0.36%     114kB / 62.2kB    0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.289MiB / 2GiB       0.45%     115kB / 62.8kB    0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    2.45%     187.5MiB / 15.63GiB   1.17%     602kB / 384kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    1.89%     188.2MiB / 15.63GiB   1.18%     656kB / 1.04MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.09%     22.94MiB / 15.63GiB   0.14%     290kB / 543kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.49%     47.69MiB / 15.63GiB   0.30%     115kB / 137kB     0B / 1.89MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.48%     47.92MiB / 15.63GiB   0.30%     112kB / 131kB     0B / 1.89MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.05kB / 2.34kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.14kB / 2.44kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.43kB / 2.49kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.46kB / 2.58kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.64kB / 2.73kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.81kB / 2.89kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.414MiB / 2GiB       0.36%     114kB / 62.2kB    0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.328MiB / 2GiB       0.46%     115kB / 62.8kB    0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.63%     187.5MiB / 15.63GiB   1.17%     602kB / 384kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.22%     188.2MiB / 15.63GiB   1.18%     656kB / 1.04MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.10%     22.94MiB / 15.63GiB   0.14%     290kB / 543kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.71%     47.7MiB / 15.63GiB    0.30%     115kB / 137kB     0B / 1.89MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.67%     47.93MiB / 15.63GiB   0.30%     112kB / 131kB     0B / 1.89MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.19kB / 2.41kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.2kB / 2.51kB    0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.5kB / 2.56kB    0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.53kB / 2.65kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.64kB / 2.73kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.81kB / 2.89kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.414MiB / 2GiB       0.36%     114kB / 62.2kB    0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.328MiB / 2GiB       0.46%     115kB / 62.8kB    0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.64%     187.5MiB / 15.63GiB   1.17%     602kB / 384kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.30%     188.2MiB / 15.63GiB   1.18%     657kB / 1.04MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.17%     22.94MiB / 15.63GiB   0.14%     290kB / 543kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.44%     47.71MiB / 15.63GiB   0.30%     115kB / 137kB     0B / 1.89MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.71%     47.98MiB / 15.63GiB   0.30%     112kB / 131kB     0B / 1.89MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.19kB / 2.41kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.25kB / 2.55kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.5kB / 2.56kB    0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.57kB / 2.69kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.64kB / 2.73kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.85kB / 2.93kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.414MiB / 2GiB       0.36%     133kB / 76.1kB    0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.332MiB / 2GiB       0.46%     135kB / 77.1kB    0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.72%     187.6MiB / 15.63GiB   1.17%     656kB / 446kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    1.61%     188.3MiB / 15.63GiB   1.18%     740kB / 1.72MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.08%     22.94MiB / 15.63GiB   0.14%     290kB / 543kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            1.32%     48.58MiB / 15.63GiB   0.30%     119kB / 155kB     0B / 1.89MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            1.14%     48.36MiB / 15.63GiB   0.30%     117kB / 149kB     0B / 1.89MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.19kB / 2.41kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.25kB / 2.55kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.57kB / 2.56kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.64kB / 2.69kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.64kB / 2.73kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.85kB / 2.93kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.418MiB / 2GiB       0.36%     153kB / 90.3kB    0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.332MiB / 2GiB       0.46%     154kB / 91.4kB    0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    2.07%     187.6MiB / 15.63GiB   1.17%     696kB / 496kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.12%     188.4MiB / 15.63GiB   1.18%     780kB / 1.77MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.08%     22.94MiB / 15.63GiB   0.14%     290kB / 543kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.79%     49.03MiB / 15.63GiB   0.31%     123kB / 173kB     0B / 1.89MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.81%     48.5MiB / 15.63GiB    0.30%     121kB / 167kB     0B / 1.89MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.19kB / 2.41kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.25kB / 2.55kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.57kB / 2.56kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.64kB / 2.69kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.71kB / 2.8kB    0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.85kB / 2.93kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.77%     7.422MiB / 2GiB       0.36%     169kB / 101kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.67%     9.332MiB / 2GiB       0.46%     170kB / 102kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    5.11%     187.6MiB / 15.63GiB   1.17%     728kB / 536kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    4.69%     188.4MiB / 15.63GiB   1.18%     813kB / 1.81MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.08%     22.94MiB / 15.63GiB   0.14%     290kB / 543kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.01%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            7.10%     48.89MiB / 15.63GiB   0.31%     128kB / 187kB     0B / 1.89MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            7.66%     48.99MiB / 15.63GiB   0.31%     126kB / 181kB     0B / 1.89MB   45
-fe9745b11ac5   ca.org2.example.com                       0.01%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.25kB / 2.47kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.31kB / 2.61kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.63kB / 2.62kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.71kB / 2.76kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.71kB / 2.8kB    0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.92kB / 3kB      0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.422MiB / 2GiB       0.36%     169kB / 101kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.332MiB / 2GiB       0.46%     170kB / 102kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.54%     187.6MiB / 15.63GiB   1.17%     728kB / 536kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    1.86%     188.4MiB / 15.63GiB   1.18%     813kB / 1.81MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.08%     22.94MiB / 15.63GiB   0.14%     290kB / 543kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.69%     48.79MiB / 15.63GiB   0.30%     128kB / 187kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.77%     48.98MiB / 15.63GiB   0.31%     126kB / 181kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.25kB / 2.47kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.35kB / 2.66kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.63kB / 2.62kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.71kB / 2.76kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.75kB / 2.84kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.96kB / 3.04kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.422MiB / 2GiB       0.36%     184kB / 111kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.332MiB / 2GiB       0.46%     186kB / 113kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.53%     187.7MiB / 15.63GiB   1.17%     761kB / 576kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    1.50%     188.4MiB / 15.63GiB   1.18%     844kB / 1.85MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.08%     22.94MiB / 15.63GiB   0.14%     290kB / 543kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            2.40%     48.87MiB / 15.63GiB   0.31%     133kB / 201kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            2.43%     49.17MiB / 15.63GiB   0.31%     131kB / 194kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.25kB / 2.47kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.35kB / 2.66kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.63kB / 2.62kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.71kB / 2.76kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.289MiB / 2GiB       0.45%     4.82kB / 2.84kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.316MiB / 2GiB       0.45%     4.96kB / 3.04kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.43MiB / 2GiB        0.36%     203kB / 125kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.336MiB / 2GiB       0.46%     204kB / 126kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.64%     187.7MiB / 15.63GiB   1.17%     799kB / 624kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.14%     188.4MiB / 15.63GiB   1.18%     884kB / 1.9MB     0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.06%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.64%     48.88MiB / 15.63GiB   0.31%     136kB / 218kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.49%     49.34MiB / 15.63GiB   0.31%     135kB / 212kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.25kB / 2.47kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.35kB / 2.66kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.63kB / 2.62kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.71kB / 2.76kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.336MiB / 2GiB       0.46%     5kB / 3.02kB      0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.27%     9.359MiB / 2GiB       0.46%     5.21kB / 3.22kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.64%     7.43MiB / 2GiB        0.36%     222kB / 139kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.67%     9.34MiB / 2GiB        0.46%     223kB / 140kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    4.22%     187.7MiB / 15.63GiB   1.17%     839kB / 673kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    4.85%     188.5MiB / 15.63GiB   1.18%     924kB / 1.95MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.08%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            7.97%     48.98MiB / 15.63GiB   0.31%     141kB / 236kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            6.66%     49.48MiB / 15.63GiB   0.31%     139kB / 230kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.02%     11.39MiB / 2GiB       0.56%     4.32kB / 2.54kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.49kB / 2.72kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.7kB / 2.69kB    0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.77kB / 2.83kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.336MiB / 2GiB       0.46%     5kB / 3.02kB      0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.359MiB / 2GiB       0.46%     5.21kB / 3.22kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.43MiB / 2GiB        0.36%     222kB / 139kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.34MiB / 2GiB        0.46%     223kB / 140kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.96%     187.7MiB / 15.63GiB   1.17%     840kB / 673kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.22%     188.5MiB / 15.63GiB   1.18%     924kB / 1.95MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.18%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            3.45%     48.96MiB / 15.63GiB   0.31%     141kB / 236kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            2.86%     49.45MiB / 15.63GiB   0.31%     139kB / 230kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.32kB / 2.54kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.53kB / 2.76kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.79kB / 2.77kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.86kB / 2.91kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.336MiB / 2GiB       0.46%     5.04kB / 3.06kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.359MiB / 2GiB       0.46%     5.25kB / 3.26kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.43MiB / 2GiB        0.36%     239kB / 150kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.34MiB / 2GiB        0.46%     239kB / 150kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    2.01%     187.8MiB / 15.63GiB   1.17%     871kB / 713kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    1.89%     188.5MiB / 15.63GiB   1.18%     957kB / 1.99MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.10%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            1.17%     49MiB / 15.63GiB      0.31%     146kB / 250kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            1.09%     49.53MiB / 15.63GiB   0.31%     144kB / 244kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.47kB / 2.62kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.53kB / 2.76kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.79kB / 2.77kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.86kB / 2.91kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.336MiB / 2GiB       0.46%     5.04kB / 3.06kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.359MiB / 2GiB       0.46%     5.25kB / 3.26kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.43MiB / 2GiB        0.36%     254kB / 160kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.344MiB / 2GiB       0.46%     255kB / 161kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.75%     187.8MiB / 15.63GiB   1.17%     903kB / 752kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    1.78%     188.5MiB / 15.63GiB   1.18%     988kB / 2.03MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.10%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.60%     49.01MiB / 15.63GiB   0.31%     150kB / 264kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.99%     49.53MiB / 15.63GiB   0.31%     148kB / 257kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.47kB / 2.62kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.53kB / 2.76kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.79kB / 2.77kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.86kB / 2.91kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.336MiB / 2GiB       0.46%     5.11kB / 3.13kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.359MiB / 2GiB       0.46%     5.32kB / 3.33kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.63%     7.43MiB / 2GiB        0.36%     273kB / 174kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.79%     9.344MiB / 2GiB       0.46%     274kB / 175kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    4.03%     187.8MiB / 15.63GiB   1.17%     943kB / 801kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    4.40%     188.5MiB / 15.63GiB   1.18%     1.03MB / 2.08MB   0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.08%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.78kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            7.42%     49.04MiB / 15.63GiB   0.31%     155kB / 282kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            8.37%     49.59MiB / 15.63GiB   0.31%     152kB / 275kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.54kB / 2.69kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.6kB / 2.83kB    0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.85kB / 2.84kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.92kB / 2.98kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.02%     9.336MiB / 2GiB       0.46%     5.11kB / 3.13kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.359MiB / 2GiB       0.46%     5.32kB / 3.33kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.43MiB / 2GiB        0.36%     273kB / 174kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.344MiB / 2GiB       0.46%     274kB / 175kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    1.84%     187.8MiB / 15.63GiB   1.17%     943kB / 801kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.20%     188.5MiB / 15.63GiB   1.18%     1.03MB / 2.08MB   0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.11%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.85kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.78%     49.02MiB / 15.63GiB   0.31%     155kB / 282kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.83%     49.54MiB / 15.63GiB   0.31%     152kB / 275kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.54kB / 2.69kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.64kB / 2.87kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.85kB / 2.84kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.92kB / 2.98kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.336MiB / 2GiB       0.46%     5.11kB / 3.13kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.359MiB / 2GiB       0.46%     5.32kB / 3.33kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.43MiB / 2GiB        0.36%     291kB / 188kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.344MiB / 2GiB       0.46%     292kB / 188kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    2.34%     187.8MiB / 15.63GiB   1.17%     982kB / 850kB     0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.09%     188.6MiB / 15.63GiB   1.18%     1.07MB / 2.13MB   0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.09%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.85kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            2.62%     49.28MiB / 15.63GiB   0.31%     159kB / 300kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            2.72%     49.61MiB / 15.63GiB   0.31%     157kB / 293kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.54kB / 2.69kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.64kB / 2.87kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.85kB / 2.84kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.92kB / 2.98kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.336MiB / 2GiB       0.46%     5.11kB / 3.13kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.359MiB / 2GiB       0.46%     5.32kB / 3.33kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.43MiB / 2GiB        0.36%     308kB / 199kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.344MiB / 2GiB       0.46%     309kB / 199kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    2.15%     187.9MiB / 15.63GiB   1.17%     1.02MB / 892kB    0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.00%     188.6MiB / 15.63GiB   1.18%     1.1MB / 2.17MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.07%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.85kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.68%     49.28MiB / 15.63GiB   0.31%     164kB / 314kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.54%     49.66MiB / 15.63GiB   0.31%     161kB / 307kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                                      CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-28ccc0b968f5   dev-peer0.org1.example.com-smallbank-v0   0.00%     11.39MiB / 2GiB       0.56%     4.54kB / 2.69kB   0B / 0B       8
-11e225ce3814   dev-peer0.org2.example.com-smallbank-v0   0.00%     9.301MiB / 2GiB       0.45%     4.64kB / 2.87kB   0B / 0B       9
-790ad3af168a   dev-peer0.org1.example.com-simple-v0      0.00%     7.27MiB / 2GiB        0.35%     4.85kB / 2.84kB   0B / 0B       8
-4e83d6c5a03d   dev-peer0.org2.example.com-simple-v0      0.00%     7.266MiB / 2GiB       0.35%     4.92kB / 2.98kB   0B / 0B       7
-16844249a914   dev-peer0.org1.example.com-drm-v0         0.00%     9.336MiB / 2GiB       0.46%     5.17kB / 3.19kB   0B / 0B       9
-db51180fa57f   dev-peer0.org2.example.com-drm-v0         0.00%     9.359MiB / 2GiB       0.46%     5.38kB / 3.39kB   0B / 0B       10
-8c3d2866ca4b   dev-peer0.org1.example.com-marbles-v0     0.00%     7.43MiB / 2GiB        0.36%     308kB / 199kB     0B / 0B       10
-9ddf26add62d   dev-peer0.org2.example.com-marbles-v0     0.00%     9.344MiB / 2GiB       0.46%     309kB / 199kB     0B / 0B       9
-58c17ef91c51   peer0.org2.example.com                    2.11%     187.9MiB / 15.63GiB   1.17%     1.02MB / 892kB    0B / 717kB    14
-82b91e03aa3d   peer0.org1.example.com                    2.25%     188.6MiB / 15.63GiB   1.18%     1.1MB / 2.17MB    0B / 717kB    14
-b8fc60147460   orderer0.example.com                      0.12%     22.94MiB / 15.63GiB   0.14%     291kB / 544kB     0B / 737kB    13
-f07540f74b76   ca.org1.example.com                       0.00%     14.48MiB / 15.63GiB   0.09%     3.85kB / 5.89kB   0B / 446kB    9
-e933ed5fcb41   couchdb.peer0.org1.example.com            0.65%     49.28MiB / 15.63GiB   0.31%     164kB / 314kB     0B / 1.99MB   45
-e964a6730b36   couchdb.peer0.org2.example.com            0.68%     49.66MiB / 15.63GiB   0.31%     161kB / 307kB     0B / 1.99MB   45
-fe9745b11ac5   ca.org2.example.com                       0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-f07540f74b76   ca.org1.example.com              0.00%     14.48MiB / 15.63GiB   0.09%     3.85kB / 5.89kB   0B / 446kB    9
-e964a6730b36   couchdb.peer0.org2.example.com   5.25%     48.18MiB / 15.63GiB   0.30%     161kB / 307kB     0B / 1.99MB   40
-fe9745b11ac5   ca.org2.example.com              0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB    9
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-f07540f74b76   ca.org1.example.com   0.00%     14.48MiB / 15.63GiB   0.09%     3.85kB / 5.89kB   0B / 446kB   9
-fe9745b11ac5   ca.org2.example.com   0.00%     12.47MiB / 15.63GiB   0.08%     3.63kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
-f07540f74b76   ca.org1.example.com   0.00%     14.48MiB / 15.63GiB   0.09%     3.98kB / 5.89kB   0B / 446kB   9
-fe9745b11ac5   ca.org2.example.com   0.00%     12.47MiB / 15.63GiB   0.08%     3.75kB / 5.94kB   0B / 446kB   9
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+CONTAINER ID,NAME,  CPU %,  MEM USAGE / LIMIT,  MEM %,  NET I/O,  BLOCK I/O,  PIDS
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  3.57kB / 2.33kB,0B / 0B,9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  3.93kB / 2.37kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.07kB / 2.44kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.07kB / 2.44kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.07kB / 2.44kB,0B / 0B,9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.14kB / 2.44kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.25kB / 2.55kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.25kB / 2.55kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.25kB / 2.55kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.2kB / 2.51kB, 0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.31kB / 2.61kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.35kB / 2.66kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.35kB / 2.66kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.35kB / 2.66kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.49kB / 2.72kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.53kB / 2.76kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.53kB / 2.76kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.53kB / 2.76kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.64kB / 2.87kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.64kB / 2.87kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.64kB / 2.87kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4.6kB / 2.83kB, 0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.00%,  9.301MiB / 2GiB, 0.45%,  4kB / 2.37kB,0B / 0B, 9
+11e225ce3814,dev-peer0.org2.example.com-smallbank-v0,0.01%,  9.301MiB / 2GiB, 0.45%,  3.93kB / 2.37kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.43kB / 2.56kB,0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.51kB / 2.6kB, 0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.51kB / 2.6kB, 0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.58kB / 2.67kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.58kB / 2.67kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.58kB / 2.67kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.58kB / 2.67kB,0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.64kB / 2.73kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.64kB / 2.73kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.64kB / 2.73kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.64kB / 2.73kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.71kB / 2.8kB, 0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.71kB / 2.8kB, 0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.75kB / 2.84kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.289MiB / 2GiB, 0.45%,  4.82kB / 2.84kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.336MiB / 2GiB, 0.46%,  5.04kB / 3.06kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.336MiB / 2GiB, 0.46%,  5.04kB / 3.06kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.336MiB / 2GiB, 0.46%,  5.11kB / 3.13kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.336MiB / 2GiB, 0.46%,  5.11kB / 3.13kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.336MiB / 2GiB, 0.46%,  5.11kB / 3.13kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.336MiB / 2GiB, 0.46%,  5.17kB / 3.19kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.336MiB / 2GiB, 0.46%,  5kB / 3.02kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.00%,  9.336MiB / 2GiB, 0.46%,  5kB / 3.02kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0,0.02%,  9.336MiB / 2GiB, 0.46%,  5.11kB / 3.13kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  3.62kB / 2.25kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  3.79kB / 2.25kB,0B / 0B,  9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  3.79kB / 2.25kB,0B / 0B, 9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  3.85kB / 2.25kB,0B / 0B,  9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  3.92kB / 2.32kB,0B / 0B,  9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  3.92kB / 2.32kB,0B / 0B,  9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  3.99kB / 2.32kB,0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  4.06kB / 2.39kB,0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  4.14kB / 2.39kB,0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  4.14kB / 2.39kB,0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  4.14kB / 2.39kB,0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  4.21kB / 2.45kB,0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  4.25kB / 2.5kB, 0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  4.25kB / 2.5kB, 0B / 0B,9
+16844249a914,dev-peer0.org1.example.com-drm-v0, 0.00%,  9.289MiB / 2GiB, 0.45%,  4.32kB / 2.5kB, 0B / 0B,9
+1ca971b5cd44,agitated_cohen,  174.10%,79.86MiB / 15.63GiB,0.50%,  876B / 0B,65.5kB / 17.8MB,19
+1ca971b5cd44,agitated_cohen,  182.32%,118.8MiB / 15.63GiB,0.74%,  876B / 0B,65.5kB / 17.8MB,30
+1ca971b5cd44,agitated_cohen,  187.58%,85.38MiB / 15.63GiB,0.53%,  486B / 0B,65.5kB / 0B,31
+1ca971b5cd44,agitated_cohen,  194.63%,91.67MiB / 15.63GiB,0.57%,  736B / 0B,65.5kB / 160kB,30
+1ca971b5cd44,agitated_cohen,  195.96%,148.4MiB / 15.63GiB,0.93%,  876B / 0B,65.5kB / 17.8MB,36
+1ca971b5cd44,agitated_cohen,  204.95%,107MiB / 15.63GiB,  0.67%,  806B / 0B,65.5kB / 17.8MB,30
+2752ce83dbe2,loving_wilbur,136.34%,239.7MiB / 15.63GiB,1.50%,  876B / 0B,0B / 16.1MB,19
+2752ce83dbe2,loving_wilbur,184.85%,138.8MiB / 15.63GiB,0.87%,  736B / 0B,0B / 4.1kB,36
+2752ce83dbe2,loving_wilbur,184.85%,140.9MiB / 15.63GiB,0.88%,  876B / 0B,0B / 16.1MB,35
+2752ce83dbe2,loving_wilbur,185.03%,103.4MiB / 15.63GiB,0.65%,  876B / 0B,0B / 16.1MB,29
+2752ce83dbe2,loving_wilbur,192.08%,121.7MiB / 15.63GiB,0.76%,  806B / 0B,0B / 16.1MB,30
+2752ce83dbe2,loving_wilbur,200.92%,88.41MiB / 15.63GiB,0.55%,  806B / 0B,0B / 16.1MB,36
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  3.71kB / 2.23kB,0B / 0B,8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  3.8kB / 2.23kB, 0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  3.91kB / 2.27kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  3.91kB / 2.27kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.05kB / 2.34kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.05kB / 2.34kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.05kB / 2.34kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.19kB / 2.41kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.19kB / 2.41kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.19kB / 2.41kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.19kB / 2.41kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.25kB / 2.47kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.25kB / 2.47kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.25kB / 2.47kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.25kB / 2.47kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.32kB / 2.54kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.47kB / 2.62kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.47kB / 2.62kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.54kB / 2.69kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.54kB / 2.69kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.54kB / 2.69kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.00%,  11.39MiB / 2GiB, 0.56%,  4.54kB / 2.69kB,0B / 0B, 8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.01%,  11.39MiB / 2GiB, 0.56%,  4.05kB / 2.34kB,0B / 0B,8
+28ccc0b968f5,dev-peer0.org1.example.com-smallbank-v0,0.02%,  11.39MiB / 2GiB, 0.56%,  4.32kB / 2.54kB,0B / 0B, 8
+44c9f0f8b0e1,ecstatic_grothendieck,171.72%,125.1MiB / 15.63GiB,0.78%,  876B / 0B,0B / 34.9MB,18
+44c9f0f8b0e1,ecstatic_grothendieck,176.09%,132MiB / 15.63GiB,  0.82%,  876B / 0B,0B / 18.7MB,31
+44c9f0f8b0e1,ecstatic_grothendieck,192.24%,187.6MiB / 15.63GiB,1.17%,  876B / 0B,0B / 34.9MB,25
+44c9f0f8b0e1,ecstatic_grothendieck,199.38%,111MiB / 15.63GiB,  0.69%,  736B / 0B,0B / 160kB,36
+44c9f0f8b0e1,ecstatic_grothendieck,199.55%,106.3MiB / 15.63GiB,0.66%,  646B / 0B,0B / 0B,34
+44c9f0f8b0e1,ecstatic_grothendieck,201.03%,156.5MiB / 15.63GiB,0.98%,  806B / 0B,0B / 160kB,33
+4afa6b9ef468,adoring_spence,  127.24%,251.9MiB / 15.63GiB,1.57%,  766B / 0B,0B / 16.5MB,19
+4afa6b9ef468,adoring_spence,  184.30%,85.66MiB / 15.63GiB,0.54%,  696B / 0B,0B / 16.5MB,35
+4afa6b9ef468,adoring_spence,  199.13%,170.2MiB / 15.63GiB,1.06%,  766B / 0B,0B / 16.5MB,37
+4afa6b9ef468,adoring_spence,  200.65%,107.5MiB / 15.63GiB,0.67%,  696B / 0B,0B / 16.5MB,30
+4afa6b9ef468,adoring_spence,  203.31%,141.6MiB / 15.63GiB,0.88%,  766B / 0B,0B / 16.5MB,30
+4afa6b9ef468,adoring_spence,  204.58%,126.9MiB / 15.63GiB,0.79%,  536B / 0B,0B / 4.1kB,35
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.2kB / 2.44kB, 0B / 0B,7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.36kB / 2.48kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.36kB / 2.48kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.36kB / 2.48kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.42kB / 2.54kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.46kB / 2.58kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.46kB / 2.58kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.46kB / 2.58kB,0B / 0B,7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.53kB / 2.65kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.57kB / 2.69kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.64kB / 2.69kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.64kB / 2.69kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.71kB / 2.76kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.71kB / 2.76kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.71kB / 2.76kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.71kB / 2.76kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.77kB / 2.83kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.86kB / 2.91kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.86kB / 2.91kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.86kB / 2.91kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.92kB / 2.98kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.92kB / 2.98kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.92kB / 2.98kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0,0.00%,  7.266MiB / 2GiB, 0.35%,  4.92kB / 2.98kB,0B / 0B, 7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0, 0.00%,  7.266MiB / 2GiB, 0.35%,  3.96kB / 2.3kB, 0B / 0B,7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0, 0.00%,  7.266MiB / 2GiB, 0.35%,  3.96kB / 2.3kB, 0B / 0B,7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0, 0.00%,  7.266MiB / 2GiB, 0.35%,  3.96kB / 2.3kB, 0B / 0B,7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0, 0.00%,  7.266MiB / 2GiB, 0.35%,  4.09kB / 2.37kB,0B / 0B,7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0, 0.00%,  7.266MiB / 2GiB, 0.35%,  4.09kB / 2.37kB,0B / 0B,7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0, 0.00%,  7.266MiB / 2GiB, 0.35%,  4.09kB / 2.37kB,0B / 0B,7
+4e83d6c5a03d,dev-peer0.org2.example.com-simple-v0, 0.01%,  7.266MiB / 2GiB, 0.35%,  3.85kB / 2.26kB,0B / 0B,7
+532aa71cb911,keen_ride,168.67%,137.6MiB / 15.63GiB,0.86%,  766B / 0B,0B / 30.8MB,18
+532aa71cb911,keen_ride,189.36%,116.8MiB / 15.63GiB,0.73%,  696B / 0B,0B / 160kB,37
+532aa71cb911,keen_ride,191.17%,81.18MiB / 15.63GiB,0.51%,  536B / 0B,0B / 0B,34
+532aa71cb911,keen_ride,191.25%,105.9MiB / 15.63GiB,0.66%,  696B / 0B,0B / 160kB,36
+532aa71cb911,keen_ride,199.90%,70.02MiB / 15.63GiB,0.44%,  766B / 0B,0B / 30.8MB,18
+532aa71cb911,keen_ride,217.29%,109.4MiB / 15.63GiB,0.68%,  766B / 0B,0B / 19.2MB,35
+58c17ef91c51,peer0.org2.example.com,  1.24%,  187MiB / 15.63GiB,  1.17%,  141kB / 77.7kB, 0B / 283kB, 13
+58c17ef91c51,peer0.org2.example.com,  1.53%,  187.7MiB / 15.63GiB,1.17%,  761kB / 576kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.54%,  187.6MiB / 15.63GiB,1.17%,  728kB / 536kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.63%,  187.5MiB / 15.63GiB,1.17%,  602kB / 384kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.64%,  187.5MiB / 15.63GiB,1.17%,  602kB / 384kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.64%,  187.7MiB / 15.63GiB,1.17%,  799kB / 624kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.72%,  187.6MiB / 15.63GiB,1.17%,  656kB / 446kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.75%,  187.8MiB / 15.63GiB,1.17%,  903kB / 752kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.84%,  187.8MiB / 15.63GiB,1.17%,  943kB / 801kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.96%,  187.7MiB / 15.63GiB,1.17%,  840kB / 673kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  1.96%,  187MiB / 15.63GiB,  1.17%,  141kB / 77.7kB, 0B / 283kB, 13
+58c17ef91c51,peer0.org2.example.com,  2.01%,  187.8MiB / 15.63GiB,1.17%,  871kB / 713kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  2.07%,  187.6MiB / 15.63GiB,1.17%,  696kB / 496kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  2.11%,  187.9MiB / 15.63GiB,1.17%,  1.02MB / 892kB, 0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  2.15%,  187.9MiB / 15.63GiB,1.17%,  1.02MB / 892kB, 0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  2.34%,  187.8MiB / 15.63GiB,1.17%,  982kB / 850kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  2.45%,  187.5MiB / 15.63GiB,1.17%,  602kB / 384kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  2.78%,  187MiB / 15.63GiB,  1.17%,  128kB / 72.6kB, 0B / 258kB,13
+58c17ef91c51,peer0.org2.example.com,  4.03%,  187.8MiB / 15.63GiB,1.17%,  943kB / 801kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  4.22%,  187.7MiB / 15.63GiB,1.17%,  839kB / 673kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  5.11%,  187.6MiB / 15.63GiB,1.17%,  728kB / 536kB,  0B / 717kB, 14
+58c17ef91c51,peer0.org2.example.com,  5.23%,  187.3MiB / 15.63GiB,1.17%,  396kB / 260kB,  0B / 500kB, 14
+58c17ef91c51,peer0.org2.example.com,  5.77%,  187.6MiB / 15.63GiB,1.17%,  557kB / 354kB,  0B / 672kB,14
+58c17ef91c51,peer0.org2.example.com,  7.39%,  187MiB / 15.63GiB,  1.17%,  248kB / 154kB,  0B / 369kB, 13
+58c17ef91c51,peer0.org2.example.com,1.25%,  162.5MiB / 15.63GiB,1.02%,  125kB / 67.2kB, 0B / 258kB,13
+58c17ef91c51,peer0.org2.example.com,1.29%,  143.8MiB / 15.63GiB,0.90%,  107kB / 55.7kB, 0B / 233kB,  13
+58c17ef91c51,peer0.org2.example.com,1.29%,  162.5MiB / 15.63GiB,1.02%,  125kB / 66.8kB, 0B / 258kB,13
+58c17ef91c51,peer0.org2.example.com,1.32%,  143.8MiB / 15.63GiB,0.90%,  107kB / 55.7kB, 0B / 233kB,13
+58c17ef91c51,peer0.org2.example.com,1.34%,  162.5MiB / 15.63GiB,1.02%,  125kB / 66.8kB, 0B / 258kB,13
+58c17ef91c51,peer0.org2.example.com,1.37%,  143.8MiB / 15.63GiB,0.90%,  107kB / 55.7kB, 0B / 233kB,  13
+58c17ef91c51,peer0.org2.example.com,1.38%,  143.8MiB / 15.63GiB,0.90%,  107kB / 55.4kB, 0B / 233kB,  13
+58c17ef91c51,peer0.org2.example.com,1.43%,  99.97MiB / 15.63GiB,0.62%,  89.8kB / 44.5kB,0B / 205kB, 13
+58c17ef91c51,peer0.org2.example.com,1.48%,  162.5MiB / 15.63GiB,1.02%,  125kB / 67.2kB, 0B / 258kB,13
+58c17ef91c51,peer0.org2.example.com,1.55%,  162.5MiB / 15.63GiB,1.02%,  125kB / 66.7kB, 0B / 258kB,13
+58c17ef91c51,peer0.org2.example.com,1.55%,  99.97MiB / 15.63GiB,0.62%,  89.8kB / 44.5kB,0B / 205kB, 13
+58c17ef91c51,peer0.org2.example.com,1.68%,  162.5MiB / 15.63GiB,1.02%,  125kB / 66.9kB, 0B / 258kB,13
+58c17ef91c51,peer0.org2.example.com,1.70%,  143.8MiB / 15.63GiB,0.90%,  107kB / 55.4kB, 0B / 233kB, 13
+58c17ef91c51,peer0.org2.example.com,1.74%,  143.8MiB / 15.63GiB,0.90%,  107kB / 55.5kB, 0B / 233kB,  13
+58c17ef91c51,peer0.org2.example.com,1.79%,  99.97MiB / 15.63GiB,0.62%,  89.5kB / 44.2kB,0B / 205kB, 13
+58c17ef91c51,peer0.org2.example.com,1.84%,  99.97MiB / 15.63GiB,0.62%,  89.4kB / 44.2kB,0B / 205kB,13
+58c17ef91c51,peer0.org2.example.com,1.89%,  99.97MiB / 15.63GiB,0.62%,  89.5kB / 44.2kB,0B / 205kB, 13
+58c17ef91c51,peer0.org2.example.com,1.95%,  99.97MiB / 15.63GiB,0.62%,  89.5kB / 44.2kB,0B / 205kB, 13
+58c17ef91c51,peer0.org2.example.com,2.26%,  162.4MiB / 15.63GiB,1.01%,  108kB / 55.8kB, 0B / 233kB,13
+58c17ef91c51,peer0.org2.example.com,2.45%,  141.7MiB / 15.63GiB,0.89%,  90.1kB / 44.8kB,0B / 205kB, 13
+58c17ef91c51,peer0.org2.example.com,44.64%, 141.9MiB / 15.63GiB,0.89%,  89.8kB / 44.5kB,0B / 205kB,13
+58c17ef91c51,peer0.org2.example.com,79.15%, 187.1MiB / 15.63GiB,1.17%,  125kB / 67.2kB, 0B / 258kB,13
+58c17ef91c51,peer0.org2.example.com,  1.17%,  51.48MiB / 15.63GiB,0.32%,  70.6kB / 32.8kB,0B / 180kB, 13
+58c17ef91c51,peer0.org2.example.com,  1.27%,  51.48MiB / 15.63GiB,0.32%,  70.4kB / 32.6kB,0B / 180kB,13
+58c17ef91c51,peer0.org2.example.com,  1.28%,  51.48MiB / 15.63GiB,0.32%,  70.5kB / 32.7kB,0B / 180kB,13
+58c17ef91c51,peer0.org2.example.com,  1.33%,  43.04MiB / 15.63GiB,0.27%,  3.15kB / 1.53kB,0B / 57.3kB,13
+58c17ef91c51,peer0.org2.example.com,  1.51%,  51.48MiB / 15.63GiB,0.32%,  70.5kB / 32.7kB,0B / 180kB, 13
+58c17ef91c51,peer0.org2.example.com,  1.59%,  99.93MiB / 15.63GiB,0.62%,  70.7kB / 32.9kB,0B / 180kB,13
+58c17ef91c51,peer0.org2.example.com,  1.62%,  49.37MiB / 15.63GiB,0.31%,  39.2kB / 22.1kB,0B / 127kB,13
+58c17ef91c51,peer0.org2.example.com,  1.63%,  51.48MiB / 15.63GiB,0.32%,  70.6kB / 32.8kB,0B / 180kB, 13
+58c17ef91c51,peer0.org2.example.com,  1.64%,  51.48MiB / 15.63GiB,0.32%,  70.7kB / 32.9kB,0B / 180kB,13
+58c17ef91c51,peer0.org2.example.com,  1.80%,  43.04MiB / 15.63GiB,0.27%,  3.33kB / 1.6kB, 0B / 57.3kB,13
+58c17ef91c51,peer0.org2.example.com,  1.93%,  43.04MiB / 15.63GiB,0.27%,  2.96kB / 1.49kB,0B / 57.3kB,13
+58c17ef91c51,peer0.org2.example.com,  2.01%,  43.04MiB / 15.63GiB,0.27%,  3.07kB / 1.53kB,0B / 57.3kB,13
+58c17ef91c51,peer0.org2.example.com,  2.98%,  51.48MiB / 15.63GiB,0.32%,  70.4kB / 32.6kB,0B / 180kB,13
+58c17ef91c51,peer0.org2.example.com,  3.98%,  43.04MiB / 15.63GiB,0.27%,  2.96kB / 1.49kB,0B / 57.3kB,13
+77995f85f6fa,peaceful_hertz,  165.82%,73.81MiB / 15.63GiB,0.46%,  376B / 0B,0B / 4.1kB, 36
+77995f85f6fa,peaceful_hertz,  187.69%,140.6MiB / 15.63GiB,0.88%,  696B / 0B,0B / 15.4MB, 37
+77995f85f6fa,peaceful_hertz,  189.78%,87.37MiB / 15.63GiB,0.55%,  626B / 0B,0B / 160kB, 30
+77995f85f6fa,peaceful_hertz,  193.53%,144.8MiB / 15.63GiB,0.90%,  696B / 0B,0B / 15.4MB, 31
+77995f85f6fa,peaceful_hertz,  209.78%,185.6MiB / 15.63GiB,1.16%,  766B / 0B,0B / 15.4MB, 32
+77995f85f6fa,peaceful_hertz,  212.46%,104.8MiB / 15.63GiB,0.65%,  766B / 0B,0B / 15.4MB, 19
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.17kB / 2.34kB,0B / 0B,8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.28kB / 2.34kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.28kB / 2.34kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.28kB / 2.34kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.35kB / 2.41kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.43kB / 2.49kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.43kB / 2.49kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.43kB / 2.49kB,0B / 0B,8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.57kB / 2.56kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.57kB / 2.56kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.5kB / 2.56kB, 0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.5kB / 2.56kB, 0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.63kB / 2.62kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.63kB / 2.62kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.63kB / 2.62kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.63kB / 2.62kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.79kB / 2.77kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.79kB / 2.77kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.79kB / 2.77kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.7kB / 2.69kB, 0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.85kB / 2.84kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.85kB / 2.84kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.85kB / 2.84kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0,0.00%,  7.27MiB / 2GiB,  0.35%,  4.85kB / 2.84kB,0B / 0B, 8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0, 0.00%,  7.27MiB / 2GiB,  0.35%,  3.93kB / 2.21kB,0B / 0B,8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0, 0.00%,  7.27MiB / 2GiB,  0.35%,  3.93kB / 2.21kB,0B / 0B,8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0, 0.00%,  7.27MiB / 2GiB,  0.35%,  4.06kB / 2.27kB,0B / 0B,8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0, 0.00%,  7.27MiB / 2GiB,  0.35%,  4.06kB / 2.27kB,0B / 0B,8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0, 0.00%,  7.27MiB / 2GiB,  0.35%,  4.06kB / 2.27kB,0B / 0B,8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0, 0.00%,  7.27MiB / 2GiB,  0.35%,  4kB / 2.21kB,0B / 0B,8
+790ad3af168a,dev-peer0.org1.example.com-simple-v0, 0.01%,  7.27MiB / 2GiB,  0.35%,  3.81kB / 2.17kB,0B / 0B,8
+82b91e03aa3d,peer0.org1.example.com,  1.40%,  187.4MiB / 15.63GiB,1.17%,  151kB / 83.4kB, 0B / 283kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.50%,  188.4MiB / 15.63GiB,1.18%,  844kB / 1.85MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.61%,  188.3MiB / 15.63GiB,1.18%,  740kB / 1.72MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.78%,  188.5MiB / 15.63GiB,1.18%,  988kB / 2.03MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.86%,  188.4MiB / 15.63GiB,1.18%,  813kB / 1.81MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.88%,  187.4MiB / 15.63GiB,1.17%,  151kB / 83.3kB, 0B / 283kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.89%,  188.2MiB / 15.63GiB,1.18%,  656kB / 1.04MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.89%,  188.5MiB / 15.63GiB,1.18%,  957kB / 1.99MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  11.62%, 187.5MiB / 15.63GiB,1.17%,  251kB / 772kB,  0B / 283kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.00%,  188.6MiB / 15.63GiB,1.18%,  1.1MB / 2.17MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.09%,  188.6MiB / 15.63GiB,1.18%,  1.07MB / 2.13MB,0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.12%,  187.4MiB / 15.63GiB,1.17%,  136kB / 73.1kB, 0B / 258kB,14
+82b91e03aa3d,peer0.org1.example.com,  2.12%,  188.4MiB / 15.63GiB,1.18%,  780kB / 1.77MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.14%,  188.4MiB / 15.63GiB,1.18%,  884kB / 1.9MB,  0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.20%,  188.5MiB / 15.63GiB,1.18%,  1.03MB / 2.08MB,0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.22%,  188.2MiB / 15.63GiB,1.18%,  656kB / 1.04MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.22%,  188.5MiB / 15.63GiB,1.18%,  924kB / 1.95MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.25%,  188.6MiB / 15.63GiB,1.18%,  1.1MB / 2.17MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  2.30%,  188.2MiB / 15.63GiB,1.18%,  657kB / 1.04MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  4.40%,  188.5MiB / 15.63GiB,1.18%,  1.03MB / 2.08MB,0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  4.69%,  188.4MiB / 15.63GiB,1.18%,  813kB / 1.81MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  4.85%,  188.5MiB / 15.63GiB,1.18%,  924kB / 1.95MB, 0B / 717kB, 14
+82b91e03aa3d,peer0.org1.example.com,  5.12%,  188MiB / 15.63GiB,  1.17%,  452kB / 916kB,  0B / 500kB, 14
+82b91e03aa3d,peer0.org1.example.com,  5.37%,  188.1MiB / 15.63GiB,1.18%,  612kB / 1.01MB, 0B / 672kB,14
+82b91e03aa3d,peer0.org1.example.com,1.12%,  156.4MiB / 15.63GiB,0.98%,  136kB / 72.7kB, 0B / 258kB,14
+82b91e03aa3d,peer0.org1.example.com,1.35%,  156.4MiB / 15.63GiB,0.98%,  136kB / 72.7kB, 0B / 258kB,14
+82b91e03aa3d,peer0.org1.example.com,1.41%,  120.2MiB / 15.63GiB,0.75%,  114kB / 59.2kB, 0B / 233kB,14
+82b91e03aa3d,peer0.org1.example.com,1.49%,  156.4MiB / 15.63GiB,0.98%,  135kB / 72.2kB, 0B / 258kB,14
+82b91e03aa3d,peer0.org1.example.com,1.49%,  156.4MiB / 15.63GiB,0.98%,  135kB / 72.3kB, 0B / 258kB,14
+82b91e03aa3d,peer0.org1.example.com,1.50%,  120.2MiB / 15.63GiB,0.75%,  114kB / 59.2kB, 0B / 233kB,  14
+82b91e03aa3d,peer0.org1.example.com,1.52%,  120.2MiB / 15.63GiB,0.75%,  114kB / 58.8kB, 0B / 233kB,  14
+82b91e03aa3d,peer0.org1.example.com,1.52%,  120.2MiB / 15.63GiB,0.75%,  114kB / 58.9kB, 0B / 233kB,  14
+82b91e03aa3d,peer0.org1.example.com,1.55%,  156.4MiB / 15.63GiB,0.98%,  135kB / 72.4kB, 0B / 258kB,14
+82b91e03aa3d,peer0.org1.example.com,1.57%,  156.4MiB / 15.63GiB,0.98%,  135kB / 72.3kB, 0B / 258kB,14
+82b91e03aa3d,peer0.org1.example.com,1.60%,  106MiB / 15.63GiB,  0.66%,  92.8kB / 45.9kB,0B / 205kB, 14
+82b91e03aa3d,peer0.org1.example.com,1.60%,  120.2MiB / 15.63GiB,0.75%,  114kB / 58.8kB, 0B / 233kB, 14
+82b91e03aa3d,peer0.org1.example.com,1.60%,  120.2MiB / 15.63GiB,0.75%,  114kB / 59.2kB, 0B / 233kB,  14
+82b91e03aa3d,peer0.org1.example.com,1.72%,  106MiB / 15.63GiB,  0.66%,  93.1kB / 46.2kB,0B / 205kB, 14
+82b91e03aa3d,peer0.org1.example.com,1.78%,  106MiB / 15.63GiB,  0.66%,  93.1kB / 46.2kB,0B / 205kB, 14
+82b91e03aa3d,peer0.org1.example.com,1.93%,  106MiB / 15.63GiB,  0.66%,  92.8kB / 45.9kB,0B / 205kB, 14
+82b91e03aa3d,peer0.org1.example.com,1.99%,  106MiB / 15.63GiB,  0.66%,  92.9kB / 46kB,  0B / 205kB, 14
+82b91e03aa3d,peer0.org1.example.com,2.44%,  156.3MiB / 15.63GiB,0.98%,  114kB / 59.3kB, 0B / 233kB,14
+82b91e03aa3d,peer0.org1.example.com,2.89%,  120.1MiB / 15.63GiB,0.75%,  95.7kB / 51.4kB,0B / 205kB, 14
+82b91e03aa3d,peer0.org1.example.com,4.66%,  106MiB / 15.63GiB,  0.66%,  92.7kB / 45.9kB,0B / 205kB,14
+82b91e03aa3d,peer0.org1.example.com,46.30%, 120.2MiB / 15.63GiB,0.75%,  93.1kB / 46.2kB,0B / 205kB,14
+82b91e03aa3d,peer0.org1.example.com,55.66%, 187.5MiB / 15.63GiB,1.17%,  136kB / 72.8kB, 0B / 258kB,14
+82b91e03aa3d,peer0.org1.example.com,  1.19%,  43MiB / 15.63GiB,0.27%,  3.11kB / 1.49kB,0B / 57.3kB,13
+82b91e03aa3d,peer0.org1.example.com,  1.21%,  51.5MiB / 15.63GiB, 0.32%,  71.4kB / 32.4kB,0B / 180kB,14
+82b91e03aa3d,peer0.org1.example.com,  1.25%,  51.5MiB / 15.63GiB, 0.32%,  71.6kB / 32.6kB,0B / 180kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.38%,  51.5MiB / 15.63GiB, 0.32%,  71.4kB / 32.5kB,0B / 180kB,14
+82b91e03aa3d,peer0.org1.example.com,  1.41%,  51.5MiB / 15.63GiB, 0.32%,  71.5kB / 32.5kB,0B / 180kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.41%,  51.5MiB / 15.63GiB, 0.32%,  71.6kB / 32.6kB,0B / 180kB, 14
+82b91e03aa3d,peer0.org1.example.com,  1.92%,  105.9MiB / 15.63GiB,0.66%,  71.7kB / 32.7kB,0B / 180kB,14
+82b91e03aa3d,peer0.org1.example.com,  1.95%,  43MiB / 15.63GiB,0.27%,  3.03kB / 1.49kB,0B / 57.3kB,13
+82b91e03aa3d,peer0.org1.example.com,  2.13%,  49.4MiB / 15.63GiB, 0.31%,  39.4kB / 22.2kB,0B / 127kB,14
+82b91e03aa3d,peer0.org1.example.com,  2.32%,  43MiB / 15.63GiB,0.27%,  2.96kB / 1.49kB,0B / 57.3kB,13
+82b91e03aa3d,peer0.org1.example.com,  2.32%,  43MiB / 15.63GiB,0.27%,  3.29kB / 1.56kB,0B / 57.3kB,13
+82b91e03aa3d,peer0.org1.example.com,  2.50%,  51.5MiB / 15.63GiB, 0.32%,  71.4kB / 32.4kB,0B / 180kB,14
+82b91e03aa3d,peer0.org1.example.com,  4.47%,  43MiB / 15.63GiB,0.27%,  2.71kB / 1.49kB,0B / 57.3kB,13
+82b91e03aa3d,peer0.org1.example.com,  8.57%,  105.9MiB / 15.63GiB,0.66%,  71.7kB / 32.7kB,0B / 180kB,14
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.34MiB / 2GiB,  0.36%,  4.67kB / 2.62kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.34MiB / 2GiB,  0.36%,  4.75kB / 2.66kB,0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.34MiB / 2GiB,  0.36%,  4.75kB / 2.66kB,0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.414MiB / 2GiB, 0.36%,  114kB / 62.2kB, 0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.414MiB / 2GiB, 0.36%,  114kB / 62.2kB, 0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.414MiB / 2GiB, 0.36%,  133kB / 76.1kB, 0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.418MiB / 2GiB, 0.36%,  153kB / 90.3kB, 0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.422MiB / 2GiB, 0.36%,  169kB / 101kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.422MiB / 2GiB, 0.36%,  184kB / 111kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.43MiB / 2GiB,  0.36%,  203kB / 125kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.43MiB / 2GiB,  0.36%,  222kB / 139kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.43MiB / 2GiB,  0.36%,  239kB / 150kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.43MiB / 2GiB,  0.36%,  254kB / 160kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.43MiB / 2GiB,  0.36%,  273kB / 174kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.43MiB / 2GiB,  0.36%,  291kB / 188kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.43MiB / 2GiB,  0.36%,  308kB / 199kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.00%,  7.43MiB / 2GiB,  0.36%,  308kB / 199kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.22%,  7.414MiB / 2GiB, 0.36%,  114kB / 62.2kB, 0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.42%,  7.359MiB / 2GiB, 0.36%,  104kB / 57.5kB, 0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.63%,  7.43MiB / 2GiB,  0.36%,  273kB / 174kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.64%,  7.355MiB / 2GiB, 0.36%,  72.2kB / 40.3kB,0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.64%,  7.43MiB / 2GiB,  0.36%,  222kB / 139kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  0.77%,  7.422MiB / 2GiB, 0.36%,  169kB / 101kB,  0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,  1.00%,  7.344MiB / 2GiB, 0.36%,  28.5kB / 16.7kB,0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  3.77kB / 2.14kB,0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  3.77kB / 2.14kB,0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  3.9kB / 2.21kB, 0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  3.9kB / 2.21kB, 0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  3.9kB / 2.21kB, 0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  3.9kB / 2.21kB, 0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.08kB / 2.27kB,0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.12kB / 2.27kB,0B / 0B,  10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.12kB / 2.27kB,0B / 0B, 10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.19kB / 2.34kB,0B / 0B,  10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.23kB / 2.38kB,0B / 0B,  10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.23kB / 2.38kB,0B / 0B,  10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.23kB / 2.38kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.37kB / 2.45kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.49kB / 2.49kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.49kB / 2.49kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.49kB / 2.49kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.56kB / 2.56kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.56kB / 2.56kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.56kB / 2.56kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.00%,  7.34MiB / 2GiB,  0.36%,  4.62kB / 2.62kB,0B / 0B,10
+8c3d2866ca4b,dev-peer0.org1.example.com-marbles-v0,0.01%,  7.34MiB / 2GiB,  0.36%,  3.65kB / 2.1kB, 0B / 0B,10
+9d72744bd3f1,wizardly_satoshi,120.91%,297.6MiB / 15.63GiB,1.86%,  876B / 0B,0B / 17MB, 18
+9d72744bd3f1,wizardly_satoshi,182.64%,107.6MiB / 15.63GiB,0.67%,  876B / 0B,0B / 17MB, 29
+9d72744bd3f1,wizardly_satoshi,190.17%,163.4MiB / 15.63GiB,1.02%,  876B / 0B,0B / 17MB, 34
+9d72744bd3f1,wizardly_satoshi,195.12%,102.6MiB / 15.63GiB,0.64%,  736B / 0B,0B / 160kB,36
+9d72744bd3f1,wizardly_satoshi,197.76%,207.6MiB / 15.63GiB,1.30%,  806B / 0B,0B / 17MB, 37
+9d72744bd3f1,wizardly_satoshi,207.42%,145.1MiB / 15.63GiB,0.91%,  646B / 0B,0B / 4.1kB,38
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.27MiB / 2GiB,  0.45%,  4.73kB / 2.76kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.27MiB / 2GiB,  0.45%,  4.82kB / 2.8kB, 0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.27MiB / 2GiB,  0.45%,  4.82kB / 2.8kB, 0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.289MiB / 2GiB, 0.45%,  115kB / 62.8kB, 0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.328MiB / 2GiB, 0.46%,  115kB / 62.8kB, 0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.328MiB / 2GiB, 0.46%,  115kB / 62.8kB, 0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.332MiB / 2GiB, 0.46%,  135kB / 77.1kB, 0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.332MiB / 2GiB, 0.46%,  154kB / 91.4kB, 0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.332MiB / 2GiB, 0.46%,  170kB / 102kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.332MiB / 2GiB, 0.46%,  186kB / 113kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.336MiB / 2GiB, 0.46%,  204kB / 126kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.344MiB / 2GiB, 0.46%,  255kB / 161kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.344MiB / 2GiB, 0.46%,  274kB / 175kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.344MiB / 2GiB, 0.46%,  292kB / 188kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.344MiB / 2GiB, 0.46%,  309kB / 199kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.344MiB / 2GiB, 0.46%,  309kB / 199kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.34MiB / 2GiB,  0.46%,  223kB / 140kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.00%,  9.34MiB / 2GiB,  0.46%,  239kB / 150kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.58%,  9.285MiB / 2GiB, 0.45%,  104kB / 57.4kB, 0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.58%,  9.285MiB / 2GiB, 0.45%,  71.5kB / 39.4kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.67%,  9.332MiB / 2GiB, 0.46%,  170kB / 102kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.67%,  9.34MiB / 2GiB,  0.46%,  223kB / 140kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.72%,  9.277MiB / 2GiB, 0.45%,  27.5kB / 15.4kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,  0.79%,  9.344MiB / 2GiB, 0.46%,  274kB / 175kB,  0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  3.59kB / 2.2kB, 0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  3.79kB / 2.24kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  3.79kB / 2.24kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  3.86kB / 2.24kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  3.93kB / 2.31kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  3.93kB / 2.31kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  3.93kB / 2.31kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.03kB / 2.37kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.19kB / 2.41kB,0B / 0B,  9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.19kB / 2.41kB,0B / 0B, 9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.25kB / 2.48kB,0B / 0B,  9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.25kB / 2.48kB,0B / 0B,  9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.25kB / 2.48kB,0B / 0B,  9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.25kB / 2.48kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.32kB / 2.54kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.56kB / 2.63kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.56kB / 2.63kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.56kB / 2.63kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.62kB / 2.69kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.62kB / 2.69kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.62kB / 2.69kB,0B / 0B,9
+9ddf26add62d,dev-peer0.org2.example.com-marbles-v0,0.00%,  9.27MiB / 2GiB,  0.45%,  4.62kB / 2.69kB,0B / 0B,9
+b8fc60147460,orderer0.example.com, 0.05%,  18.29MiB / 15.63GiB,0.11%,  39.3kB / 73.3kB,0B / 209kB, 13
+b8fc60147460,orderer0.example.com, 0.06%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.07%,  18.29MiB / 15.63GiB,0.11%,  39.3kB / 73.3kB,0B / 209kB, 13
+b8fc60147460,orderer0.example.com, 0.07%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.08%,  18.27MiB / 15.63GiB,0.11%,  33.3kB / 61.1kB,0B / 188kB,13
+b8fc60147460,orderer0.example.com, 0.08%,  22.94MiB / 15.63GiB,0.14%,  290kB / 543kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.08%,  22.94MiB / 15.63GiB,0.14%,  290kB / 543kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.08%,  22.94MiB / 15.63GiB,0.14%,  290kB / 543kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.08%,  22.94MiB / 15.63GiB,0.14%,  290kB / 543kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.08%,  22.94MiB / 15.63GiB,0.14%,  290kB / 543kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.08%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.08%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.09%,  22.94MiB / 15.63GiB,0.14%,  290kB / 543kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.09%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.10%,  22.94MiB / 15.63GiB,0.14%,  290kB / 543kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.10%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.10%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.11%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.12%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.17%,  22.94MiB / 15.63GiB,0.14%,  290kB / 543kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 0.18%,  22.94MiB / 15.63GiB,0.14%,  291kB / 544kB,  0B / 737kB, 13
+b8fc60147460,orderer0.example.com, 1.03%,  22.89MiB / 15.63GiB,0.14%,  266kB / 497kB,  0B / 688kB,13
+b8fc60147460,orderer0.example.com, 1.14%,  22.69MiB / 15.63GiB,0.14%,  190kB / 315kB,  0B / 475kB, 13
+b8fc60147460,orderer0.example.com, 1.45%,  20.44MiB / 15.63GiB,0.13%,  93.2kB / 174kB, 0B / 315kB, 13
+b8fc60147460,orderer0.example.com,  0.04%,  18.25MiB / 15.63GiB,0.11%,  20.9kB / 36.6kB,0B / 143kB, 13
+b8fc60147460,orderer0.example.com,  0.05%,  18.25MiB / 15.63GiB,0.11%,  21.1kB / 36.7kB,0B / 143kB, 13
+b8fc60147460,orderer0.example.com,  0.06%,  18.25MiB / 15.63GiB,0.11%,  20.9kB / 36.6kB,0B / 143kB, 13
+b8fc60147460,orderer0.example.com,  0.06%,  18.27MiB / 15.63GiB,0.11%,  26.9kB / 48.7kB,0B / 168kB,  13
+b8fc60147460,orderer0.example.com,  0.06%,  18.27MiB / 15.63GiB,0.11%,  27.1kB / 48.9kB,0B / 168kB,13
+b8fc60147460,orderer0.example.com,  0.07%,  18.27MiB / 15.63GiB,0.11%,  26.9kB / 48.7kB,0B / 168kB,  13
+b8fc60147460,orderer0.example.com,  0.07%,  18.27MiB / 15.63GiB,0.11%,  27.1kB / 48.9kB,0B / 168kB,  13
+b8fc60147460,orderer0.example.com,  0.08%,  18.25MiB / 15.63GiB,0.11%,  20.8kB / 36.5kB,0B / 143kB,13
+b8fc60147460,orderer0.example.com,  0.08%,  18.25MiB / 15.63GiB,0.11%,  21.1kB / 36.7kB,0B / 143kB, 13
+b8fc60147460,orderer0.example.com,  0.08%,  18.27MiB / 15.63GiB,0.11%,  26.9kB / 48.7kB,0B / 168kB, 13
+b8fc60147460,orderer0.example.com,  0.08%,  18.27MiB / 15.63GiB,0.11%,  32.9kB / 60.8kB,0B / 188kB,13
+b8fc60147460,orderer0.example.com,  0.08%,  18.27MiB / 15.63GiB,0.11%,  33.3kB / 61.1kB,0B / 188kB,13
+b8fc60147460,orderer0.example.com,  0.08%,  18.27MiB / 15.63GiB,0.11%,  33.3kB / 61.1kB,0B / 188kB,13
+b8fc60147460,orderer0.example.com,  0.09%,  18.25MiB / 15.63GiB,0.11%,  21.1kB / 36.7kB,0B / 143kB,13
+b8fc60147460,orderer0.example.com,  0.09%,  18.25MiB / 15.63GiB,0.11%,  21.2kB / 36.8kB,0B / 143kB, 13
+b8fc60147460,orderer0.example.com,  0.09%,  18.27MiB / 15.63GiB,0.11%,  27.1kB / 48.9kB,0B / 168kB,13
+b8fc60147460,orderer0.example.com,  0.09%,  18.27MiB / 15.63GiB,0.11%,  33.3kB / 61.1kB,0B / 188kB,13
+b8fc60147460,orderer0.example.com,  0.09%,  18.27MiB / 15.63GiB,0.11%,  33kB / 60.8kB,  0B / 188kB,13
+b8fc60147460,orderer0.example.com,  0.10%,  18.27MiB / 15.63GiB,0.11%,  27.1kB / 48.9kB,0B / 168kB,  13
+b8fc60147460,orderer0.example.com,  0.14%,  18.25MiB / 15.63GiB,0.11%,  20.9kB / 36.6kB,0B / 143kB, 13
+b8fc60147460,orderer0.example.com,  0.14%,  18.27MiB / 15.63GiB,0.11%,  32.9kB / 60.8kB,0B / 188kB,13
+b8fc60147460,orderer0.example.com,  0.46%,  18.28MiB / 15.63GiB,0.11%,  33.2kB / 61kB,  0B / 188kB,13
+b8fc60147460,orderer0.example.com, 0.03%,  16.02MiB / 15.63GiB,0.10%,  600B / 0B,0B / 41kB,  13
+b8fc60147460,orderer0.example.com, 0.03%,  16.02MiB / 15.63GiB,0.10%,  670B / 0B,0B / 41kB,  13
+b8fc60147460,orderer0.example.com, 0.07%,  18.22MiB / 15.63GiB,0.11%,  14.9kB / 24.1kB,0B / 123kB,13
+b8fc60147460,orderer0.example.com, 0.07%,  18.22MiB / 15.63GiB,0.11%,  15.1kB / 24.2kB,0B / 123kB, 13
+b8fc60147460,orderer0.example.com, 0.07%,  18.22MiB / 15.63GiB,0.11%,  15kB / 24.1kB,  0B / 123kB,13
+b8fc60147460,orderer0.example.com, 0.08%,  18.22MiB / 15.63GiB,0.11%,  15.1kB / 24.2kB,0B / 123kB,13
+b8fc60147460,orderer0.example.com, 0.09%,  18.21MiB / 15.63GiB,0.11%,  5.78kB / 2.39kB,0B / 119kB, 13
+b8fc60147460,orderer0.example.com, 0.10%,  18.22MiB / 15.63GiB,0.11%,  15kB / 24.1kB,  0B / 123kB, 13
+b8fc60147460,orderer0.example.com, 0.11%,  16.02MiB / 15.63GiB,0.10%,  510B / 0B,0B / 41kB,  13
+b8fc60147460,orderer0.example.com, 0.12%,  18.22MiB / 15.63GiB,0.11%,  15.1kB / 24.2kB,0B / 123kB, 13
+b8fc60147460,orderer0.example.com, 0.13%,  18.22MiB / 15.63GiB,0.11%,  15.1kB / 24.2kB,0B / 123kB,13
+b8fc60147460,orderer0.example.com, 0.16%,  18.22MiB / 15.63GiB,0.11%,  8.78kB / 20kB,  0B / 119kB,13
+b8fc60147460,orderer0.example.com, 0.80%,  18.22MiB / 15.63GiB,0.11%,  14.9kB / 24.1kB,0B / 123kB,13
+b8fc60147460,orderer0.example.com, 2.62%,  18.21MiB / 15.63GiB,0.11%,  5.71kB / 2.39kB,0B / 115kB, 13
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.55kB / 2.67kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.68kB / 2.76kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.68kB / 2.76kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.75kB / 2.82kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.75kB / 2.82kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.75kB / 2.82kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.75kB / 2.82kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.81kB / 2.89kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.81kB / 2.89kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.85kB / 2.93kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.85kB / 2.93kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.85kB / 2.93kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.92kB / 3kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.96kB / 3.04kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.316MiB / 2GiB, 0.45%,  4.96kB / 3.04kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.359MiB / 2GiB, 0.46%,  5.21kB / 3.22kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.359MiB / 2GiB, 0.46%,  5.25kB / 3.26kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.359MiB / 2GiB, 0.46%,  5.25kB / 3.26kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.359MiB / 2GiB, 0.46%,  5.32kB / 3.33kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.359MiB / 2GiB, 0.46%,  5.32kB / 3.33kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.359MiB / 2GiB, 0.46%,  5.32kB / 3.33kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.359MiB / 2GiB, 0.46%,  5.32kB / 3.33kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.00%,  9.359MiB / 2GiB, 0.46%,  5.38kB / 3.39kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0,0.27%,  9.359MiB / 2GiB, 0.46%,  5.21kB / 3.22kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  3.55kB / 2.33kB,0B / 0B, 10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  3.91kB / 2.37kB,0B / 0B,  10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  3.98kB / 2.37kB,0B / 0B,  10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.05kB / 2.43kB,0B / 0B,  10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.05kB / 2.43kB,0B / 0B,  10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.05kB / 2.43kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.12kB / 2.43kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.27kB / 2.5kB, 0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.31kB / 2.54kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.31kB / 2.54kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.38kB / 2.61kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.38kB / 2.61kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.38kB / 2.61kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.00%,  9.316MiB / 2GiB, 0.45%,  4.38kB / 2.61kB,0B / 0B,10
+db51180fa57f,dev-peer0.org2.example.com-drm-v0, 0.02%,  9.316MiB / 2GiB, 0.45%,  3.91kB / 2.37kB,0B / 0B, 10
+dc06d3311778,eager_driscoll,  133.67%,260.3MiB / 15.63GiB,1.63%,  766B / 0B,0B / 16MB, 18
+dc06d3311778,eager_driscoll,  179.67%,106.3MiB / 15.63GiB,0.66%,  626B / 0B,0B / 4.1kB,31
+dc06d3311778,eager_driscoll,  182.07%,140.9MiB / 15.63GiB,0.88%,  696B / 0B,0B / 16MB, 35
+dc06d3311778,eager_driscoll,  191.48%,175.4MiB / 15.63GiB,1.10%,  696B / 0B,0B / 16MB, 38
+dc06d3311778,eager_driscoll,  195.90%,141.5MiB / 15.63GiB,0.88%,  766B / 0B,0B / 16MB, 39
+dc06d3311778,eager_driscoll,  209.94%,108.2MiB / 15.63GiB,0.68%,  766B / 0B,0B / 16MB, 30
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.44%,  47.71MiB / 15.63GiB,0.30%,  115kB / 137kB,  0B / 1.89MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.49%,  47.69MiB / 15.63GiB,0.30%,  115kB / 137kB,  0B / 1.89MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.51%,  43.52MiB / 15.63GiB,0.27%,  44.2kB / 54kB,  0B / 1.02MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.60%,  49.01MiB / 15.63GiB,0.31%,  150kB / 264kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.64%,  48.88MiB / 15.63GiB,0.31%,  136kB / 218kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.65%,  43.52MiB / 15.63GiB,0.27%,  44.2kB / 54kB,  0B / 1.02MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.65%,  49.28MiB / 15.63GiB,0.31%,  164kB / 314kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.68%,  49.28MiB / 15.63GiB,0.31%,  164kB / 314kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.69%,  48.79MiB / 15.63GiB,0.30%,  128kB / 187kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.71%,  47.7MiB / 15.63GiB, 0.30%,  115kB / 137kB,  0B / 1.89MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.78%,  49.02MiB / 15.63GiB,0.31%,  155kB / 282kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.79%,  49.03MiB / 15.63GiB,0.31%,  123kB / 173kB,  0B / 1.89MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.98%,  43.46MiB / 15.63GiB,0.27%,  40.3kB / 48.3kB,0B / 991kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,1.17%,  49MiB / 15.63GiB,0.31%,  146kB / 250kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,1.32%,  48.58MiB / 15.63GiB,0.30%,  119kB / 155kB,  0B / 1.89MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,14.42%, 47.62MiB / 15.63GiB,0.30%,  108kB / 129kB,  0B / 1.8MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,2.40%,  48.87MiB / 15.63GiB,0.31%,  133kB / 201kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,2.62%,  49.28MiB / 15.63GiB,0.31%,  159kB / 300kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,27.50%, 45.71MiB / 15.63GiB,0.29%,  57.5kB / 70.4kB,0B / 1.26MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,3.45%,  48.96MiB / 15.63GiB,0.31%,  141kB / 236kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,7.10%,  48.89MiB / 15.63GiB,0.31%,  128kB / 187kB,  0B / 1.89MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,7.42%,  49.04MiB / 15.63GiB,0.31%,  155kB / 282kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,7.97%,  48.98MiB / 15.63GiB,0.31%,  141kB / 236kB,  0B / 1.99MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,9.65%,  47.09MiB / 15.63GiB,0.29%,  80.5kB / 97.1kB,0B / 1.48MB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.28%,  43.45MiB / 15.63GiB,0.27%,  30.1kB / 31.4kB,0B / 942kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.40%,  43.46MiB / 15.63GiB,0.27%,  30.3kB / 31.5kB,0B / 942kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.46%,  43.45MiB / 15.63GiB,0.27%,  30.1kB / 31.4kB,0B / 942kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.51%,  43.49MiB / 15.63GiB,0.27%,  34.9kB / 39.3kB,0B / 967kB,  45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.56%,  43.49MiB / 15.63GiB,0.27%,  34.9kB / 39.3kB,0B / 967kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.56%,  43.55MiB / 15.63GiB,0.27%,  35kB / 39.5kB,  0B / 967kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.58%,  43.54MiB / 15.63GiB,0.27%,  35kB / 39.5kB,  0B / 967kB,  45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.66%,  43.69MiB / 15.63GiB,0.27%,  39.9kB / 48.1kB,0B / 991kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.71%,  43.57MiB / 15.63GiB,0.27%,  39.9kB / 48.1kB,0B / 991kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.73%,  43.68MiB / 15.63GiB,0.27%,  39.9kB / 48.1kB,0B / 991kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.74%,  43.69MiB / 15.63GiB,0.27%,  40kB / 48.2kB,  0B / 991kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.80%,  43.54MiB / 15.63GiB,0.27%,  35kB / 39.5kB,  0B / 967kB,  45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.81%,  43.45MiB / 15.63GiB,0.27%,  29.9kB / 31.3kB,0B / 942kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.82%,  43.46MiB / 15.63GiB,0.27%,  40.1kB / 48.2kB,0B / 991kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.83%,  43.36MiB / 15.63GiB,0.27%,  29.9kB / 31.3kB,0B / 942kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.84%,  43.54MiB / 15.63GiB,0.27%,  34.9kB / 39.3kB,0B / 967kB,  45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 0.96%,  43.45MiB / 15.63GiB,0.27%,  30.1kB / 31.4kB,0B / 942kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 1.02%,  43.55MiB / 15.63GiB,0.27%,  35kB / 39.5kB,  0B / 967kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 1.37%,  43.38MiB / 15.63GiB,0.27%,  29.9kB / 31.3kB,0B / 942kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 3.23%,  43.57MiB / 15.63GiB,0.27%,  39.9kB / 48.1kB,0B / 991kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 3.25%,  43.45MiB / 15.63GiB,0.27%,  30kB / 31.3kB,  0B / 942kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com, 3.30%,  43.46MiB / 15.63GiB,0.27%,  40kB / 48.2kB,  0B / 991kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.27%,  40.54MiB / 15.63GiB,0.25%,  2.76kB / 2.4kB, 0B / 442kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.39%,  40.61MiB / 15.63GiB,0.25%,  2.82kB / 2.46kB,0B / 442kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.42%,  42.86MiB / 15.63GiB,0.27%,  24.2kB / 22.7kB,0B / 762kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.43%,  42.74MiB / 15.63GiB,0.27%,  23.9kB / 22.5kB,0B / 762kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.49%,  42.86MiB / 15.63GiB,0.27%,  24.2kB / 22.7kB,0B / 762kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.51%,  42.86MiB / 15.63GiB,0.27%,  24.1kB / 22.6kB,0B / 762kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.55%,  42.43MiB / 15.63GiB,0.27%,  21.3kB / 19.3kB,0B / 618kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.59%,  42.74MiB / 15.63GiB,0.27%,  23.9kB / 22.5kB,0B / 762kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.61%,  42.86MiB / 15.63GiB,0.27%,  24.1kB / 22.6kB,0B / 762kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.67%,  42.85MiB / 15.63GiB,0.27%,  24.1kB / 22.5kB,0B / 762kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com,0.88%,  42.78MiB / 15.63GiB,0.27%,  24.1kB / 22.5kB,0B / 762kB,45
+e933ed5fcb41,couchdb.peer0.org1.example.com,2.33%,  40.45MiB / 15.63GiB,0.25%,  2.56kB / 2.4kB, 0B / 442kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com,8.81%,  40.51MiB / 15.63GiB,0.25%,  2.56kB / 2.4kB, 0B / 442kB, 45
+e933ed5fcb41,couchdb.peer0.org1.example.com,94.64%, 36.89MiB / 15.63GiB,0.23%,  866B / 0B,0B / 98.3kB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.35%,  44.01MiB / 15.63GiB,0.27%,  42.5kB / 48.1kB,0B / 1.02MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.48%,  47.92MiB / 15.63GiB,0.30%,  112kB / 131kB,  0B / 1.89MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.49%,  49.34MiB / 15.63GiB,0.31%,  135kB / 212kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.54%,  44.01MiB / 15.63GiB,0.27%,  42.5kB / 48.1kB,0B / 1.02MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.54%,  49.66MiB / 15.63GiB,0.31%,  161kB / 307kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.67%,  47.93MiB / 15.63GiB,0.30%,  112kB / 131kB,  0B / 1.89MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.68%,  49.66MiB / 15.63GiB,0.31%,  161kB / 307kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.71%,  47.98MiB / 15.63GiB,0.30%,  112kB / 131kB,  0B / 1.89MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.77%,  48.98MiB / 15.63GiB,0.31%,  126kB / 181kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.81%,  48.5MiB / 15.63GiB, 0.30%,  121kB / 167kB,  0B / 1.89MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.83%,  49.54MiB / 15.63GiB,0.31%,  152kB / 275kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.92%,  43.99MiB / 15.63GiB,0.27%,  38.6kB / 42.4kB,0B / 991kB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.99%,  49.53MiB / 15.63GiB,0.31%,  148kB / 257kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,1.09%,  49.53MiB / 15.63GiB,0.31%,  144kB / 244kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,1.14%,  48.36MiB / 15.63GiB,0.30%,  117kB / 149kB,  0B / 1.89MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,10.16%, 47.15MiB / 15.63GiB,0.29%,  79kB / 91.2kB,  0B / 1.48MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,12.42%, 47.79MiB / 15.63GiB,0.30%,  106kB / 122kB,  0B / 1.8MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,2.43%,  49.17MiB / 15.63GiB,0.31%,  131kB / 194kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,2.72%,  49.61MiB / 15.63GiB,0.31%,  157kB / 293kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,2.86%,  49.45MiB / 15.63GiB,0.31%,  139kB / 230kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,28.89%, 46.13MiB / 15.63GiB,0.29%,  56.5kB / 64.1kB,0B / 1.25MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,6.66%,  49.48MiB / 15.63GiB,0.31%,  139kB / 230kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,7.66%,  48.99MiB / 15.63GiB,0.31%,  126kB / 181kB,  0B / 1.89MB,45
+e964a6730b36,couchdb.peer0.org2.example.com,8.37%,  49.59MiB / 15.63GiB,0.31%,  152kB / 275kB,  0B / 1.99MB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.30%,  43.64MiB / 15.63GiB,0.27%,  29.3kB / 29.7kB,0B / 942kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.36%,  43.64MiB / 15.63GiB,0.27%,  29.3kB / 29.7kB,0B / 942kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.51%,  43.62MiB / 15.63GiB,0.27%,  29.1kB / 29.6kB,0B / 942kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.52%,  43.74MiB / 15.63GiB,0.27%,  33.7kB / 35.8kB,0B / 967kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.55%,  43.99MiB / 15.63GiB,0.27%,  38.4kB / 42.3kB,0B / 991kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.59%,  43.74MiB / 15.63GiB,0.27%,  33.7kB / 35.8kB,0B / 967kB,  45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.59%,  43.98MiB / 15.63GiB,0.27%,  38.4kB / 42.3kB,0B / 991kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.61%,  43.65MiB / 15.63GiB,0.27%,  29.3kB / 29.7kB,0B / 942kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.72%,  43.84MiB / 15.63GiB,0.27%,  33.9kB / 36kB,  0B / 967kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.75%,  43.83MiB / 15.63GiB,0.27%,  33.9kB / 36kB,  0B / 967kB,  45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.75%,  43.98MiB / 15.63GiB,0.27%,  38.3kB / 42.1kB,0B / 991kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.80%,  43.84MiB / 15.63GiB,0.27%,  33.9kB / 36kB,  0B / 967kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.81%,  43.88MiB / 15.63GiB,0.27%,  38.3kB / 42.1kB,0B / 991kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.82%,  43.66MiB / 15.63GiB,0.27%,  29.4kB / 29.8kB,0B / 942kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.86%,  43.83MiB / 15.63GiB,0.27%,  33.9kB / 36kB,  0B / 967kB,  45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.89%,  43.97MiB / 15.63GiB,0.27%,  38.3kB / 42.1kB,0B / 991kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 0.98%,  43.88MiB / 15.63GiB,0.27%,  38.3kB / 42.1kB,0B / 991kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 1.01%,  43.64MiB / 15.63GiB,0.27%,  29.1kB / 29.6kB,0B / 942kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com, 1.34%,  43.66MiB / 15.63GiB,0.27%,  29.1kB / 29.6kB,0B / 942kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com, 2.91%,  43.64MiB / 15.63GiB,0.27%,  29.1kB / 29.6kB,0B / 942kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com, 3.79%,  43.99MiB / 15.63GiB,0.27%,  38.4kB / 42.3kB,0B / 991kB,45
+e964a6730b36,couchdb.peer0.org2.example.com, 3.85%,  43.83MiB / 15.63GiB,0.27%,  33.7kB / 35.8kB,0B / 967kB,  45
+e964a6730b36,couchdb.peer0.org2.example.com,0.20%,  42.58MiB / 15.63GiB,0.27%,  23.8kB / 22kB,  0B / 762kB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.22%,  42.54MiB / 15.63GiB,0.27%,  23.7kB / 21.9kB,0B / 762kB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.34%,  40.46MiB / 15.63GiB,0.25%,  3kB / 2.44kB,0B / 442kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com,0.34%,  42.58MiB / 15.63GiB,0.27%,  23.8kB / 22kB,  0B / 762kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com,0.37%,  42.61MiB / 15.63GiB,0.27%,  23.9kB / 22.1kB,0B / 762kB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.39%,  41.96MiB / 15.63GiB,0.26%,  21.4kB / 19.3kB,0B / 618kB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.39%,  42.59MiB / 15.63GiB,0.27%,  23.8kB / 22kB,  0B / 762kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com,0.44%,  42.61MiB / 15.63GiB,0.27%,  23.9kB / 22.1kB,0B / 762kB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.48%,  40.46MiB / 15.63GiB,0.25%,  3.06kB / 2.51kB,0B / 442kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com,0.62%,  42.48MiB / 15.63GiB,0.27%,  23.6kB / 21.9kB,0B / 762kB,45
+e964a6730b36,couchdb.peer0.org2.example.com,0.96%,  42.59MiB / 15.63GiB,0.27%,  23.8kB / 22kB,  0B / 762kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com,2.64%,  40.46MiB / 15.63GiB,0.25%,  2.8kB / 2.44kB, 0B / 442kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com,20.55%, 40.77MiB / 15.63GiB,0.25%,  1.87kB / 758B,  0B / 131kB, 45
+e964a6730b36,couchdb.peer0.org2.example.com,5.25%,  48.18MiB / 15.63GiB,0.30%,  161kB / 307kB,  0B / 1.99MB,40
+e964a6730b36,couchdb.peer0.org2.example.com,9.01%,  40.46MiB / 15.63GiB,0.25%,  2.76kB / 2.4kB, 0B / 442kB, 45
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.74kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.85kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.85kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.85kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.85kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.01%,  14.48MiB / 15.63GiB,0.09%,  3.78kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.46kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.46kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.46kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.46kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.46kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.46kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.46kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.46kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.55kB / 5.89kB,0B / 446kB,  9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.55kB / 5.89kB,0B / 446kB,  9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.55kB / 5.89kB,0B / 446kB,  9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.55kB / 5.89kB,0B / 446kB,  9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.55kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.55kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.62kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.7kB / 5.89kB, 0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.7kB / 5.89kB, 0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.7kB / 5.89kB, 0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.7kB / 5.89kB, 0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.7kB / 5.89kB, 0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.7kB / 5.89kB, 0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.23%,  14.48MiB / 15.63GiB,0.09%,  3.7kB / 5.89kB, 0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.46MiB / 15.63GiB,0.09%,  1.13kB / 0B, 0B / 389kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.46MiB / 15.63GiB,0.09%,  1.2kB / 0B,  0B / 389kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.46MiB / 15.63GiB,0.09%,  1.2kB / 0B,  0B / 389kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.07kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.07kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.15kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.24kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.31kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.31kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.31kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.31kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.31kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.31kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.31kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,  0.00%,  14.48MiB / 15.63GiB,0.09%,  3.85kB / 5.89kB,0B / 446kB, 9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.85kB / 5.89kB,0B / 446kB,9
+f07540f74b76,ca.org1.example.com,0.00%,  14.48MiB / 15.63GiB,0.09%,  3.98kB / 5.89kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.58kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,  0.01%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.23kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.23kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.23kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.35kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.39kB / 5.94kB,0B / 446kB,  9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.39kB / 5.94kB,0B / 446kB,  9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.39kB / 5.94kB,0B / 446kB,  9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.39kB / 5.94kB,0B / 446kB,  9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.39kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.39kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.39kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.3kB / 5.94kB, 0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.3kB / 5.94kB, 0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.3kB / 5.94kB, 0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.47kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.47kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.47kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.47kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.47kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.54kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.54kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.01%,  12.47MiB / 15.63GiB,0.08%,  3.3kB / 5.94kB, 0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.45MiB / 15.63GiB,0.08%,  1kB / 0B, 0B / 389kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.45MiB / 15.63GiB,0.08%,  1kB / 0B, 0B / 389kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.45MiB / 15.63GiB,0.08%,  840B / 0B,0B / 389kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  2.87kB / 5.9kB, 0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  2.8kB / 5.9kB,  0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.08kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.08kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.15kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.15kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.15kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.15kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.15kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB, 9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,  0.00%,  12.47MiB / 15.63GiB,0.08%,  3kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.63kB / 5.94kB,0B / 446kB,9
+fe9745b11ac5,ca.org2.example.com,0.00%,  12.47MiB / 15.63GiB,0.08%,  3.75kB / 5.94kB,0B / 446kB,9
